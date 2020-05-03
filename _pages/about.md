@@ -16,7 +16,7 @@ Research Interests
 1. Sequential Data Analysis
 1. Statistical Inferences
 1. High-dimensional Data Analysis
-1. Confidence Distributions.
+1. Confidence Distributions
 
 Awards
 ======
