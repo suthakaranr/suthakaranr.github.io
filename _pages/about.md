@@ -15,7 +15,7 @@ Research Interests
 Change Point Analysis; Sequential Data Analysis; Statistical Inferences; High-dimensional
 Data Analysis; Extreme Value Analysis; Confidence Distributions.
 
-Honurs & Awards
+Awards
 ======
 1. J Robert and Gretchen Overman Scholarship, BGSU Summer 2020
 1. UNO Advantage Scholarship, University of Nebraska at Omaha 2014 - 2015
