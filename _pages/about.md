@@ -20,5 +20,5 @@ Research Interests
 
 Awards
 ======
-1. J Robert and Gretchen Overman Scholarship, Bowling Green State University, Summer 2020
-1. UNO Advantage Scholarship, University of Nebraska at Omaha 2014 - 2015
+* J Robert and Gretchen Overman Scholarship, Bowling Green State University, Summer 2020
+* UNO Advantage Scholarship, University of Nebraska at Omaha 2014 - 2015
