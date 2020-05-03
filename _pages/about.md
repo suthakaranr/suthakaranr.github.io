@@ -12,8 +12,11 @@ MATH 1150 - Introduction to Statistics, Spring 2020
 
 Research Interests
 ======
-Change Point Analysis; Sequential Data Analysis; Statistical Inferences; High-dimensional
-Data Analysis; Extreme Value Analysis; Confidence Distributions.
+1. Change Point Analysis
+1. Sequential Data Analysis
+1. Statistical Inferences
+1. High-dimensional Data Analysis
+1. Confidence Distributions.
 
 Awards
 ======
