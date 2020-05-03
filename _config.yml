@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Suthakaran Ratnasingam"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Suthakaran Ratnasingam"
 description              : &description "PhD candidate, Department of Mathematics & Statistics, Bowling Green State University"
