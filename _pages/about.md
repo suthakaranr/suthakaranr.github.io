@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Change Point Analysis; Sequential Data Analysis; Statistical Inferences; High-dimensional
+Data Analysis; Extreme Value Analysis; Confidence Distributions
 
 Research Interests
 ======
