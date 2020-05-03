@@ -9,13 +9,10 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+Research Interests
 ======
-
-
-Teaching
-======
-1. 
+Change Point Analysis; Sequential Data Analysis; Statistical Inferences; High-dimensional
+Data Analysis; Extreme Value Analysis; Confidence Distributions.
 
 Honurs & Awards
 ======
