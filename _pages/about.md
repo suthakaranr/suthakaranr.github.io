@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: ""
+title: "Teaching"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Teaching
-======
 MATH 1150 - Introduction to Statistics, Spring 2020
 
 Research Interests
