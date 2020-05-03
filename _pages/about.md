@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Change Point Analysis; Sequential Data Analysis; Statistical Inferences; High-dimensional
-Data Analysis; Extreme Value Analysis; Confidence Distributions
+
+Teaching
+======
+MATH 1150 - Introduction to Statistics, Spring 2020
 
 Research Interests
 ======
