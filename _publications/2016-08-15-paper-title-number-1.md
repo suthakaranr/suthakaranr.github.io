@@ -13,4 +13,4 @@ venue: 'Applied Mathematical Sciences'
 
 Recommended citation: From, S. G. and Suthakaran, R. (2016), Some New Refinements of the Arithmetic,
 Geometric and Harmonic Mean Inequalities with Applications, Applied Mathematical
-Sciences, Vol. 10, 2016, no. 52, 2553-2569
+Sciences, Vol. 10, 2016, no. 52, 2553-2569.
