@@ -11,6 +11,6 @@ venue: 'Applied Mathematical Sciences'
 
 [Download paper here](http://suthakaranr.github.io/files/paper1.pdf)
 
-Recommended citation: From, S. G. and Suthakaran, R. (2016), Some New Refinements of the Arithmetic,
+Recommended citation: From, S. G. and Ratnasingam, S. (2016), Some New Refinements of the Arithmetic,
 Geometric and Harmonic Mean Inequalities with Applications, Applied Mathematical
 Sciences, Vol. 10, 2016, no. 52, 2553-2569.
