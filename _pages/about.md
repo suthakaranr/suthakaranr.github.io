@@ -20,5 +20,5 @@ Research Interests
 
 Awards
 ======
-* J. Robert and Gretchen Overman Graduate Scholarship, Bowling Green State University, 2019 - 2020
+* James Robert and Gretchen Overman Graduate Scholarship, Bowling Green State University, 2019 - 2020
 * UNO Advantage Scholarship, University of Nebraska at Omaha, 2014 - 2015
