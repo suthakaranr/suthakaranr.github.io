@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am currently a Ph.D. candidate in Statistics in the Department of Mathematics & Statistics at Bowling Green State University, advised by <a href="http://personal.bgsu.edu/~wning/">Prof. Wei Ning</a>. I received MA in Mathematics from the University of Nebraska at Omaha, advised by <a href="https://www.researchgate.net/profile/Steven_From">Prof. Steven G. From</a>. I obtained my BS degree in Statistics and Operations Research and Postgraduate Diploma in Applied Statistics from University of Peradeniya in 2010 and 2013 respectively.
+I am currently a Ph.D. candidate in Statistics in the Department of Mathematics & Statistics at Bowling Green State University, advised by <a href="http://personal.bgsu.edu/~wning/">Prof. Wei Ning</a>. I received MA in Mathematics from the University of Nebraska at Omaha, advised by <a href="https://www.researchgate.net/profile/Steven_From/">Prof. Steven G. From</a>. I obtained my BS degree in Statistics and Operations Research and Postgraduate Diploma in Applied Statistics from University of Peradeniya in 2010 and 2013 respectively.
 </p>
 
 Teaching
