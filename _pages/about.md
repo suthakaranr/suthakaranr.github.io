@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Teaching"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently a Ph.D. candidate in Statistics in the Department of Mathematics & Statistics at Bowling Green State University, advised by Prof. Wei Ning. I received MA in Mathematics from the University of Nebraska at Omaha, advised by Prof. Steven G. From. I obtained my BS degree in Statistics and Operations Research and Postgraduate Diploma in Applied Statistics from University of Peradeniya in Sri Lanka in 2010 and 2013 respectively.
+
+Teaching
+======
 
 MATH 1150 - Introduction to Statistics, Spring 2020
 
