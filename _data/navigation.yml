@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title:<span style="color: green"> "Talks"</span>  
+  - title: <div class="text-white bg-blue mb-2"> "Talks" </div> 
     url: /talks/     
     
   - title: "Education"
