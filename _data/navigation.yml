@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /<span style="color: green">talks/</span>       
+   <span style="color: green"> url: /talks/</span>       
     
   - title: "Education"
     url: /education/
