@@ -2,10 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-<div class="text-white bg-blue mb-2">
-  - title:  "Talks" 
+
+  - title: "Talks" 
     url: /talks/     
- </div>    
+
   - title: "Education"
     url: /education/
     
