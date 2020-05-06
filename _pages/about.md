@@ -23,8 +23,3 @@ Research Interests
 * Statistical Inferences
 * High-dimensional Data Analysis
 * Confidence Distributions
-
-# Awards
-# ======
-# * James Robert and Gretchen Overman Graduate Scholarship, Bowling Green State University, 2019 - 2020
-# * UNO Advantage Scholarship, University of Nebraska at Omaha, 2014 - 2015
