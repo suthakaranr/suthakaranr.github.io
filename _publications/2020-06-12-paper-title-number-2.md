@@ -6,7 +6,7 @@ date: 2020-06-12
 venue: 'Journal of Statistical Theory and Practice'
 ---
 
-[Download paper here](https://link.springer.com/article/10.1007/s42519-020-00108-5)
+<a style="text-decoration:none" href="https://link.springer.com/article/10.1007/s42519-020-00108-5" target="_blank" rel="noopener noreferrer">Link</a>
 
 Recommended citation: Ratnasingam, S., Ning, W. Confidence Distributions for Skew Normal Change-Point Model Based 
 on Modified Information Criterion. J Stat Theory Pract 14, 42 (2020). https://doi.org/10.1007/s42519-020-00108-5.
