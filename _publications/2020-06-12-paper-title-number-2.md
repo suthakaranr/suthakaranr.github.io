@@ -3,7 +3,7 @@ title: "Confidence Distributions for Skew Normal Change-Point Model Based on Mod
 collection: publications
 permalink: /publication/2020-06-12-paper-title-number-2.md
 date: 2020-06-12
-venue: 'Applied Mathematical Sciences'
+venue: 'Journal of Statistical Theory and Practice'
 ---
 [Download paper here](https://link.springer.com/article/10.1007/s42519-020-00108-5)
 
