@@ -9,7 +9,7 @@ venue: 'Applied Mathematical Sciences'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[Download paper here](http://suthakaranr.github.io/files/paper1.pdf)
+[Download paper here](http://www.m-hikari.com/ams/ams-2016/ams-49-52-2016/p/fromAMS49-52-2016.pdf)
 
 Recommended citation: From, S. G. and Ratnasingam, S. (2016), Some New Refinements of the Arithmetic,
 Geometric and Harmonic Mean Inequalities with Applications, Applied Mathematical
