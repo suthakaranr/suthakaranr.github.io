@@ -1,5 +1,5 @@
 ---
-title: " Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications"
+title: "Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications"
 collection: publications
 permalink: /publication/2016-08-15-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
