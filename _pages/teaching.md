@@ -18,6 +18,7 @@ redirect_from:
 Past Teaching
 =======
 > Bowling Green State University
+
 > University of Nebraska at Omaha
 
 
