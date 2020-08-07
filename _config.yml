@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Suthakaran Ratnasingam, PhD"
 title_separator          : "-"
 name                     : &name "Suthakaran Ratnasingam"
 description              : &description "PhD Candidate, Department of Mathematics & Statistics, Bowling Green State University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suthakaran Ratnasingam, PhD"
+  name             : #"Suthakaran Ratnasingam, PhD"
   avatar           : "profile.png"
   bio              : #"Assistant Professor, Department of Mathematics, California State University, San Bernardino"
   location         : "San Bernardino, CA"
