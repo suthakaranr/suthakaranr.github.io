@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: " "
+title: "Current Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-Current Teaching
-=======
 
 CSUSB
 ===
