@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: 
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -18,8 +18,7 @@ CSUSB
 
 Past Teaching
 =======
-Bowling Green State University
-===
-University of Nebraska at Omaha
-===
+1. Bowling Green State University
+1. University of Nebraska at Omaha
+
 
