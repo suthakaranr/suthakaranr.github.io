@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> CSUSB
+> California State University, San Bernardino
 
 * Fall 2020
     * MATH 2265-03 - Statistics with Applications [Syllabus](http://suthakaranr.github.io/files/paper1.pdf)
