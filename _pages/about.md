@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am currently an Assistant Professor in the dpeartment of mathematics at California State University San Bernardino. I earned my Ph.D. in Statistics from Bowling Green State University under the supervision of <a style="text-decoration:none" href="http://personal.bgsu.edu/~wning/" target="_blank" rel="noopener noreferrer">Prof. Wei Ning</a> in 2020. I received MA in Mathematics from the University of Nebraska at Omaha, advised by <a style="text-decoration:none" href="https://www.researchgate.net/profile/Steven_From/" target="_blank" rel="noopener noreferrer">Prof. Steven From</a>. I obtained my BSc in Statistics and Operations Research and Postgraduate Diploma in Applied Statistics from University of Peradeniya in 2010 and 2013 respectively.
+I am currently an Assistant Professor in the Dpeartment of Mathematics at California State University, San Bernardino. I got my Ph.D. in Statistics from Bowling Green State University under the supervision of <a style="text-decoration:none" href="http://personal.bgsu.edu/~wning/" target="_blank" rel="noopener noreferrer">Prof. Wei Ning</a> in 2020. I received MA in Mathematics from the University of Nebraska at Omaha, advised by <a style="text-decoration:none" href="https://www.researchgate.net/profile/Steven_From/" target="_blank" rel="noopener noreferrer">Prof. Steven From</a>. I obtained my BSc in Statistics and Operations Research and Postgraduate Diploma in Applied Statistics from University of Peradeniya in 2010 and 2013 respectively.
 </p>
 
 
