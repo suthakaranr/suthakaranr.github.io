@@ -12,7 +12,7 @@ redirect_from:
 * Fall 2020
     * MATH 2265-03 - Statistics with Applications 
         * Lecture Hours: M & W 4:00 pm - 5:15 pm
-        * Office hours: M & W 3 pm - 4 pm, and by appointment
+        * Office hours: M & W 3:00 pm - 4:00 pm, and by appointment
     * MATH 3460-01 - Probability Theory 
         * Lecture Hours: M & W 10:30 am - 11:45 am
         * Office hours: M & W 11:45 am - 12:45 pm, and by appointment
