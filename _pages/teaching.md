@@ -10,9 +10,11 @@ redirect_from:
 > California State University, San Bernardino
 
 * Fall 2020
-    * MATH 2265-03 - Statistics with Applications [Syllabus](http://suthakaranr.github.io/files/paper1.pdf)
-    * MATH 3460-01 - Probability Theory [Syllabus](http://suthakaranr.github.io/files/paper1.pdf)
-    * MATH 3460-02 - Probability Theory [Syllabus](http://suthakaranr.github.io/files/paper1.pdf)
+    * MATH 2265-03 - Statistics with Applications 
+        * Lecture Hours:M & W 4:00 pm - 5:15 pm
+        * Office hours:M & W 3 pm - 4 pm, and by appointment
+    * MATH 3460-01 - Probability Theory 
+    * MATH 3460-02 - Probability Theory 
 
 
 Past Teaching
