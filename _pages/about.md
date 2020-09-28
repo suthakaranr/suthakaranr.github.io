@@ -14,7 +14,7 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
 
 
 Research Interests 
-=====
+===
 
 * Change Point Analysis
 * Sequential Data Analysis
