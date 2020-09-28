@@ -13,6 +13,7 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Research Interests  </font></p>
+
 * Change Point Analysis
 * Sequential Data Analysis
 * Statistical Inferences
