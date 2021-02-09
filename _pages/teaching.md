@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 > Spring 2021
-    * MATH 2265-02  
-    * MATH 2265-03
+   * MATH 2265-02  
+   * MATH 2265-03
 
 Past Teaching
 =======
 
 > Fall 2020
-    * MATH 2265-03 - Statistics with Applications 
-    * MATH 3460-01 - Probability Theory 
-    * MATH 3460-02 - Probability Theory 
+   * MATH 2265-03 - Statistics with Applications 
+   * MATH 3460-01 - Probability Theory 
+   * MATH 3460-02 - Probability Theory 
 
 
 
