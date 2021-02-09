@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> California State University, San Bernardino
-* Spring 2021
+> Spring 2021
     * MATH 2265-02  
     * MATH 2265-03
 * Fall 2020
@@ -18,9 +17,5 @@ redirect_from:
 
 Past Teaching
 =======
-> Bowling Green State University
 
-> University of Nebraska at Omaha
-
-> The Open University of Sri Lanka
 
