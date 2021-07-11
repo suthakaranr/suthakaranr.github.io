@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data sets
-description: Data
+title: Math 2265 - Statistics with Applications
+description: Statistics with Applications
 ---
 
-### Math 2265 - Statistics with Applications
+### Data sets
 <br/>
 
 
