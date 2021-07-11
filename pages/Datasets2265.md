@@ -51,31 +51,12 @@ description: Data
 | 39     | US births       | <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/doc/openintro/births14.html" target="_blank" rel="noopener noreferrer">[html]</a>       | <a style="text-decoration:none" href="../assets/Data2265/births14.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
 | 40     | High School and Beyond survey       | <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/doc/openintro/hsb2.html" target="_blank" rel="noopener noreferrer">[html]</a>       | <a style="text-decoration:none" href="../assets/Data2265/hsb2.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
 
+\\
+\\
+
+* For more data set please check link [here](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 
-
-             
- ### Math 4360 - Linear Statistical Models
- 
- 
- 
-| ID | Title | Description  | Data |
-| :---:         |     :---:      |     :---:  |        :---: | 
-|  1    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  2    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  3    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  4    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  5    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  6    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  7    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  8    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  9    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  10    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  11    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  12    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-
- 
- 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
