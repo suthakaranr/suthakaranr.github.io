@@ -55,7 +55,9 @@ description: Data
 <br/>
 <br/>
 
-* For more ``R`` data sets please check link [here](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+
+
+* For more ``R`` data sets please check link <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/datasets.html" target="_blank" rel="noopener noreferrer">here</a>
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
