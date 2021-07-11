@@ -3,7 +3,10 @@ layout: page
 title: Data sets
 description: Data
 ---
+
 ### Math 2265 - Statistics with Applications
+
+
 
 | ID | Title | Description  | Data |
 | :---:         |     :---:      |     :---:  |        :---: |
@@ -50,8 +53,11 @@ description: Data
 
 
 
+
              
  ### Math 4360 - Linear Statistical Models
+ 
+ 
  
 | ID | Title | Description  | Data |
 | :---:         |     :---:      |     :---:  |        :---: | 
