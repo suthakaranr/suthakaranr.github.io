@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data sets
-description: Data
+title: Math 4360 - Linear Statistical Models
+description: Linear Statistical Models
 ---
 
-### Math 4360 - Linear Statistical Models
+### Data sets
  
  
  
