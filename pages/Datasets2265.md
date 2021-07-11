@@ -4,10 +4,6 @@ title: Math 2265 - Statistics with Applications
 description: Statistics with Applications
 ---
 
-### Data sets
-<br/>
-
-
 | ID | Title | Description  | Data |
 | :---:         |     :---:      |     :---:  |        :---: |
 | 1   | 	Determinants of Wages Data (CPS 1985)    | <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/doc/AER/CPS1985.html" target="_blank" rel="noopener noreferrer">[html]</a>    | <a style="text-decoration:none" href="../assets/Data2265/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>    |
