@@ -6,9 +6,9 @@ description: Suthakaran's teaching portfolio
 #### CSU San Bernardino
 * Spring 2021
    * MATH 2265-02 
-       *  <a style="text-decoration:none" href="../pages/Datasets.md" target="_blank" rel="noopener noreferrer">[Data set]</a>
+       *  <a style="text-decoration:none" href="../pages/Datasets.html" target="_blank" rel="noopener noreferrer">[Data set]</a>
    * MATH 2265-03
-
+<li><a href="{{ BASE_PATH }}/pages/Education.html">Education</a></li>
 ###### Classes Taught
   
 * Fall 2020
