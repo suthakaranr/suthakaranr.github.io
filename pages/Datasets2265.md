@@ -51,8 +51,7 @@ description: Data
 | 39     | US births       | <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/doc/openintro/births14.html" target="_blank" rel="noopener noreferrer">[html]</a>       | <a style="text-decoration:none" href="../assets/Data2265/births14.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
 | 40     | High School and Beyond survey       | <a style="text-decoration:none" href="https://vincentarelbundock.github.io/Rdatasets/doc/openintro/hsb2.html" target="_blank" rel="noopener noreferrer">[html]</a>       | <a style="text-decoration:none" href="../assets/Data2265/hsb2.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
 
-\\
-\\
+
 
 * For more data set please check link [here](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
