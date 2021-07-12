@@ -18,7 +18,7 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
 
     <div class="row-fluid">
         <div class="span5">
-            Suthakaran Ratnasingam, PhD<br/>
+            Suthakaran Ratnasingam, Ph.D.<br/>
             Department of Mathematics<br/>
             CSU San Bernardino<br/>
             Email: suthakaran.ratnasingam@csusb.edu<br/>
