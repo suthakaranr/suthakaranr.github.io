@@ -14,7 +14,7 @@ description: Suthakaran's research portfolio
 <br>
 <br>
 
-I am happy to advise undergraduate and graudate students. If you are interested in a research project/thesis, please contact me. 
+#### I am happy to advise undergraduate and graudate students. If you are interested in a research project/thesis, please contact me. 
 
 #### Publications
 
