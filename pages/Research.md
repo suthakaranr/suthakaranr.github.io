@@ -16,7 +16,7 @@ I am happy to advise undergraduate and graudate students. If you are interested 
 <br>
 <br>
 
-#### Refereed Journal Publications
+#### Publications
 
 1.  From, S. G., **Ratnasingam, S.** (2021), Some New Bounds for Moment Generating Functions of Various Life Distributions Using Mean Residual Life Functions, *Journal of Statistical Theory and Practice*, 15(2), 1-14. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-021-00176-1" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021FSJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
