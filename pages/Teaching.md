@@ -8,7 +8,7 @@ description: Suthakaran's teaching portfolio
    * MATH 2265-02 & 03
        *  <a style="text-decoration:none" href="../pages/Datasets2265.html" target="_blank" rel="noopener noreferrer">Data sets</a>
   
-###### Previous Courses Taught
+###### Courses Taught
   
 * Fall 2020
    * MATH 2265-03 - Statistics with Applications 
