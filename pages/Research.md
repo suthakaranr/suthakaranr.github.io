@@ -11,8 +11,6 @@ description: Suthakaran's research portfolio
 * Statistical Inferences
 * High-dimensional Data Analysis
 * Confidence Distributions
-<br>
-<br>
 
 #### I am happy to advise undergraduate and graudate students. If you are interested in a research project/thesis, please contact me. 
 
