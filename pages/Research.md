@@ -12,7 +12,7 @@ description: Suthakaran's research portfolio
 * High-dimensional Data Analysis
 * Confidence Distribution
 
-I am happy to advise undergraduate and graudate students. If you are interested in a research project or thesis, please contact me. 
+I am happy to advise undergraduate and graduate students. If you are interested in a research project or thesis, please contact me. 
 <br>
 <br>
 
