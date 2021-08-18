@@ -8,10 +8,10 @@ description: Linear Statistical Models
 
 | Chapters | R Notes |
 | :---:         |     :---:      | 
-|  2   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Simple Linear Regression]</a>  |
-|  3   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Results on Linear Algebra and Matrix Theory]</a>  |
-|  3   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Multiple Linear Regression]</a>  |
-| 4, 6 & 9   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Model Adequacy Checking, Diagnostic for Leverage and Influence & Multicollinearity]</a>  |
+|  2   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh2.pdf" target="_blank" rel="noopener noreferrer">[Simple Linear Regression]</a>  |
+|  3   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh31.pdf" target="_blank" rel="noopener noreferrer">[Results on Linear Algebra and Matrix Theory]</a>  |
+|  3   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh3.pdf" target="_blank" rel="noopener noreferrer">[Multiple Linear Regression]</a>  |
+| 4, 6 & 9   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh469.pdf" target="_blank" rel="noopener noreferrer">[Model Adequacy Checking, Diagnostic for Leverage and Influence & Multicollinearity]</a>  |
 |  5   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Transformation and Weighting to Correct Model Inadequacies]</a>  |
 |  8   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Indicator Variables]</a>  |
 |  10   | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[Variable Selection and Model Building]</a>  |
