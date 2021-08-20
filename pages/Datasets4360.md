@@ -17,25 +17,6 @@ description: Linear Statistical Models
 |  10   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh10.pdf" target="_blank" rel="noopener noreferrer">[Variable Selection and Model Building]</a>  |<a style="text-decoration:none" href="../assets/Data4360/ex101.txt" target="_blank" rel="noopener noreferrer">[ex101]</a>   |
 
 
-#### Data sets
- 
- 
- 
-| ID | Title | Description  | Data |
-| :---:         |     :---:      |     :---:  |        :---: | 
-|  1    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  2    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  3    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  4    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  5    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  6    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  7    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  8    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  9    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  10    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  11    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-|  12    | git diff       | <a style="text-decoration:none" href=" " target="_blank" rel="noopener noreferrer">[html]</a>      | <a style="text-decoration:none" href="../assets/CPS1985.csv" target="_blank" rel="noopener noreferrer">[CSV]</a>      |
-
  
  
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
