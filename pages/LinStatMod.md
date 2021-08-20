@@ -5,7 +5,7 @@ description: Linear Statistical Models
 ---
 
 
-| Chapters | R Notes |  | Dataset |
+| Chapters | R Notes |  | Data |
 | :---:         |     :---:      |     :---:      |  :---:      | 
 |  2   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh2.pdf" target="_blank" rel="noopener noreferrer">Simple Linear Regression</a>   |  |<a style="text-decoration:none" href="../assets/Data4360/ex21.txt" target="_blank" rel="noopener noreferrer">ex21</a>   |
 |  3   | <a style="text-decoration:none" href="../assets/Data4360/RLabCh31.pdf" target="_blank" rel="noopener noreferrer">Results on Linear Algebra and Matrix Theory</a>   |  |  
