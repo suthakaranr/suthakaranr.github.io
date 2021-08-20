@@ -4,7 +4,6 @@ title: Math 4360 - Linear Statistical Models
 description: Linear Statistical Models
 ---
 
-#### R Notes
 
 | Chapters | R Notes |  | Dataset |
 | :---:         |     :---:      |     :---:      |  :---:      | 
