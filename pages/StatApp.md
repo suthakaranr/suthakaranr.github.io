@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math 2265 - Statistics with Applications
+title: Statistics with Applications (MATH 2265)
 description: Statistics with Applications
 ---
 
