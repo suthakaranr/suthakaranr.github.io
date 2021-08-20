@@ -6,8 +6,7 @@ description: Suthakaran's teaching portfolio
 #### CSU San Bernardino
 * Fall 2021
    * <a style="text-decoration:none" href="../pages/Datasets4360.html" target="_blank" rel="noopener noreferrer">MATH 4360 - Linear Statistical Models</a>
-   * MATH 2265 - 02 & 04
-       *  <a style="text-decoration:none" href="../pages/Datasets2265.html" target="_blank" rel="noopener noreferrer">Data sets</a>
+   * <a style="text-decoration:none" href="../pages/Datasets2265.html" target="_blank" rel="noopener noreferrer">MATH 2265 - 02 & 04</a>
   
 ###### Courses Taught
 
