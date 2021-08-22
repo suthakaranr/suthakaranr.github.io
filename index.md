@@ -22,7 +22,8 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
             Department of Mathematics<br/>
             CSU San Bernardino<br/>
             Email: suthakaran.ratnasingam@csusb.edu<br/>
-            Office: 909-537-5366<br/>
+            Office: JB - 324
+            Office Phone: 909-537-5366<br/>
         </div>
 
         <div class="span2">
