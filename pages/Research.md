@@ -18,8 +18,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 #### Publications
 
-1.  **Ratnasingam, S.**, Ning, W. (2021), Monitoring sequential structural changes in penalized high-dimensional linear models. *Sequential Analysis*. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-
+1.  **Ratnasingam, S.**, Ning, W. (2021), Monitoring sequential structural changes in penalized high-dimensional linear models. *Sequential Analysis*. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a>
 
 2.  From, S. G., **Ratnasingam, S.** (2021), Some New Bounds for Moment Generating Functions of Various Life Distributions Using Mean Residual Life Functions, *Journal of Statistical Theory and Practice*, 15(2), 1-14. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-021-00176-1" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021FSJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
