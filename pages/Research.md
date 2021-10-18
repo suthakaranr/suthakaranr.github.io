@@ -18,15 +18,15 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 #### Publications
 
-1.  **Ratnasingam, S.**, Ning, W. (2021), Monitoring sequential structural changes in penalized high-dimensional linear models. *Sequential Analysis*, 40(3), 381-404. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+1.  **Ratnasingam, S.**, Ning, W. (2021), Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models. *Sequential Analysis*, 40(3), 381-404. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 2.  From, S. G., **Ratnasingam, S.** (2021), Some New Bounds for Moment Generating Functions of Various Life Distributions Using Mean Residual Life Functions, *Journal of Statistical Theory and Practice*, 15(2), 1-14. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-021-00176-1" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021FSJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
-3.  **Ratnasingam, S.**, Ning, W. (2021), Modified information criterion for regular change point models based on confidence distribution. *Environmental and Ecological Statistics*, 28(2), 303-322. <a style="text-decoration:none" href="https://doi.org/10.1007/s10651-021-00485-5" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWEES.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+3.  **Ratnasingam, S.**, Ning, W. (2021), Modified Information Criterion for Regular Change Point Models Based on Confidence Distribution. *Environmental and Ecological Statistics*, 28(2), 303-322. <a style="text-decoration:none" href="https://doi.org/10.1007/s10651-021-00485-5" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWEES.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
-4. **Ratnasingam, S.**, Ning, W. (2021), Sequential change point detection for high‐dimensional data using nonconvex penalized quantile regression. *Biometrical Journal*, 63(3), 575-598. <a style="text-decoration:none" href="https://doi.org/10.1002/bimj.202000078" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2020SWBJ.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+4. **Ratnasingam, S.**, Ning, W. (2021), Sequential Change Point Detection for High-Dimensional Data Using Nonconvex Penalized Quantile Regression. *Biometrical Journal*, 63(3), 575-598. <a style="text-decoration:none" href="https://doi.org/10.1002/bimj.202000078" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2020SWBJ.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
 5. **Ratnasingam, S.**, Ning, W. (2020), Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion. *Journal of Statistical Theory and Practice*, 14(3), 1-21. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-020-00108-5" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2020SWJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
