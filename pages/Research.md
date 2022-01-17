@@ -34,6 +34,6 @@ From, S. G., **Ratnasingam, S.** (2021), Some New Bounds for Moment Generating F
 **Ratnasingam, S.**, Ning, W. (2020), Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion. *Journal of Statistical Theory and Practice*, 14(3), 1-21. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-020-00108-5" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2020SWJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
-From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+1. From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
   
  
