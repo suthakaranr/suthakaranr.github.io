@@ -18,6 +18,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 #### Peer Reviewed Publications
 
+<ol reversed>
 1.  **Ratnasingam, S.**, Ning, W. (2021), Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models. *Sequential Analysis*, 40(3), 381-404. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 2.  From, S. G., **Ratnasingam, S.** (2021), Some New Bounds for Moment Generating Functions of Various Life Distributions Using Mean Residual Life Functions, *Journal of Statistical Theory and Practice*, 15(2), 1-14. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-021-00176-1" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021FSJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -32,4 +33,8 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 5. **Ratnasingam, S.**, Ning, W. (2020), Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion. *Journal of Statistical Theory and Practice*, 14(3), 1-21. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-020-00108-5" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2020SWJSPT.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
-6. From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<li> From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a></li>
+  
+  
+  
+   </ol>
