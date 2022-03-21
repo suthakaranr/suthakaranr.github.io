@@ -11,7 +11,7 @@ description: Suthakaran's research portfolio
 * Sequential Data Analysis
 * Statistical Inferences
 * High-dimensional Data Analysis
-* Confidence Distribution
+* Bounds and Inequalities
 
 I am happy to advise undergraduate and graduate students. If you are interested in a research project or thesis, please contact me. 
 <br>
