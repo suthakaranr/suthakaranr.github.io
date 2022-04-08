@@ -20,7 +20,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 #### Peer Reviewed Publications
 
 1. Li, M., **Ratnasingam, S.**, Ning, W. (2022), Empirical-Likelihood-Based Confidence Intervals for
-Quantile Regression Models with Longitudinal Data. *Journal of Statistical Computation and Simulation*. <a style="text-decoration:none" href="https://doi.org/10.1080/00949655.2022.2043322" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2022ELJSCS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+Quantile Regression Models with Longitudinal Data. *Journal of Statistical Computation and Simulation*. <a style="text-decoration:none" href="https://doi.org/10.1080/00949655.2022.2043322" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022ELJSCS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 
 1. **Ratnasingam, S.**, Ning, W. (2021), Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models. *Sequential Analysis*, 40(3), 381-404. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[DOI]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
