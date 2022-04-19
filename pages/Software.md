@@ -12,7 +12,7 @@ This **R** package allows to compute several new upper and lower bounds for Beta
 rm(list = ls())
 library(devtools) # Make sure that the devtools library is loaded
 install_github("suthakaranr/IneqBetaFun")
-library(BetaFunBounds)
+library(IneqBetaFun)
 
 them_3_1(1/2, 1/2) # Theorem 3.1
 them_3_2(1/2,1/2) # Theorem 3.2
@@ -25,8 +25,8 @@ them_3_7(0.5,1) # Theorem 3.7: Case 2
 them_3_8(2,2) # Theorem 3.8
 them_3_10(4,2) # Theorem 3.10: Case 1
 them_3_10(4,3.5) # Theorem 3.10: Case 2
-them_3_11(4,2) # Theorem 3.11: Case 1
-them_3_11(5,5) # Theorem 3.11: Case 2
+them_3_11a(4,2) # Theorem 3.11: Case 1
+them_3_11b(5,5) # Theorem 3.11: Case 2
 corollary_2(1, 1.5) # Corollary 2
 them_3_14(1,2) # Theorem 3.14
 them_3_15(1,2) # Theorem 3.15
