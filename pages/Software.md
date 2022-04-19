@@ -4,7 +4,7 @@ title: Software
 description: R packages
 ---
 
-##### R packge <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">BetaFunBounds</a> 
+#### R packge <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">IneqBetaFun</a> 
 This **R** package provides several new upper and lower bounds for the Beta function and the quotient of Beta functions. Please see the examples below.
 
 
