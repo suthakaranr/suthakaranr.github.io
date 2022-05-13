@@ -44,8 +44,6 @@ them_3_17(1, 1.5,2) # Theorem 3.17
 
 <br/>
 
-<br/>
-
 
 #### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
 The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
