@@ -57,9 +57,9 @@ install_github("suthakaranr/EfficientClosedGPD")
 library(EfficientClosedGPD)  # Load the package 
 set.seed(650) 
 x = rgpd2(40, 2, 2) # Generate sample
-Method1(x) # Method 1
-Method2(x) # Method 2
-Method3(x) # Method 3
+Method1(x) # Method M1
+Method2(x) # Method M2
+Method3(x) # Method M3
 MethodQM(x) # Method QM
 MethodPOS(x) # Method POS
 MethodLCVM(x) # Method LCVM
