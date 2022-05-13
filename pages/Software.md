@@ -42,3 +42,26 @@ them_3_16(1, 1.5,2) # Theorem 3.16
 them_3_17(1, 1.5,2) # Theorem 3.17
 ```
 
+
+
+
+#### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
+The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
+Generalized Pareto Distribution. Please see the examples below.
+
+
+```{r}
+rm(list = ls())
+library(devtools) # Make sure that the devtools library is loaded
+install_github("suthakaranr/EfficientClosedGPD")
+library(EfficientClosedGPD)  # Load the package 
+set.seed(650) 
+x = rgpd2(40, 2, 2) # Generate sample
+Method1(x) # Method 1
+Method2(x) # Method 2
+Method3(x) # Method 3
+MethodQM(x) # Method QM
+MethodPOS(x) # Method POS
+MethodLCVM(x) # Method LCVM
+```
+
