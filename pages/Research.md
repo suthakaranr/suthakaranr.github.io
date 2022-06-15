@@ -19,7 +19,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 #### Peer Reviewed Publications
 
-1. From, S. G., **Ratnasingam, S.** (2022), Some new inequalities for the beta function and certain ratios of beta functions. *Results in Applied
+1. From, S. G., **Ratnasingam, S.** (2022), Some New Inequalities for the Beta Function and Certain Ratios of Beta Functions. *Results in Applied
 Mathematics*.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> 
 
 1. Li, M., **Ratnasingam, S.**, Ning, W. (2022), Empirical-Likelihood-Based Confidence Intervals for
