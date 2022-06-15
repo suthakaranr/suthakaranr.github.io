@@ -5,7 +5,7 @@ description: R packages
 ---
 
 #### <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">IneqBetaFun</a> 
-The **R** package **IneqBetaFun** provides several new upper and lower bounds for the Beta function and the quotient of Beta functions proposed in <a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">From and Ratnasingam (2022)</a>. Please see the examples below.
+The **R** package **IneqBetaFun** provides several new upper and lower bounds for the Beta function and the quotient of Beta functions proposed in <a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
 
 
 ```{r}
