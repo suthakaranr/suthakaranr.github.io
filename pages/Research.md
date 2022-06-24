@@ -23,7 +23,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 Sampling Based on Modified Empirical Likelihood. *Journal of Biopharmaceutical Statistics*. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 
 1. From, S. G., **Ratnasingam, S.** (2022), Some New Inequalities for the Beta Function and Certain Ratios of Beta Functions. *Results in Applied
-Mathematics*.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> 
+Mathematics*.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">[R Package]</a> 
 
 1. Li, M., **Ratnasingam, S.**, Ning, W. (2022), Empirical-Likelihood-Based Confidence Intervals for
 Quantile Regression Models with Longitudinal Data. *Journal of Statistical Computation and Simulation*. <a style="text-decoration:none" href="https://doi.org/10.1080/00949655.2022.2043322" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022ELJSCS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
