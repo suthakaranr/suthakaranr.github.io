@@ -17,9 +17,9 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 <br>
 <br>
 
-0. first item
-0. second item
-0. another item
+1. first item
+1. second item
+1. another item
 {: reversed="reversed"}
 
 #### Peer Reviewed Publications
