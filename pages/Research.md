@@ -17,6 +17,11 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 <br>
 <br>
 
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
+
 #### Peer Reviewed Publications
 
 1. **Ratnasingam, S.**, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
