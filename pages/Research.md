@@ -22,7 +22,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 <ol>
   
-  <li value="9"> **Ratnasingam, S.**, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
+  <li value="9"> <b>Ratnasingam, S.</b>, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
 Sampling Based on Modified Empirical Likelihood. *Journal of Biopharmaceutical Statistics*. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 </li>
   
