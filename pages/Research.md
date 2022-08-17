@@ -29,7 +29,7 @@ Sampling Based on Modified Empirical Likelihood. *Journal of Biopharmaceutical S
   <li value="8"> From, S. G., **Ratnasingam, S.** (2022), Some New Inequalities for the Beta Function and Certain Ratios of Beta Functions. *Results in Applied
 Mathematics*.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">[R Package]</a> </li>
   
-  <li value="7"> Li, M., **Ratnasingam, S.**, Ning, W. (2022), Empirical-Likelihood-Based Confidence Intervals for
+  <li value="7"> Li, M., Ratnasingam, S., Ning, W. (2022), Empirical-Likelihood-Based Confidence Intervals for
 Quantile Regression Models with Longitudinal Data. *Journal of Statistical Computation and Simulation*, 92(12), 2536-2553. <a style="text-decoration:none" href="https://doi.org/10.1080/00949655.2022.2043322" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022ELJSCS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
   
    <li value="6">**Ratnasingam, S.**, Ning, W. (2021), Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models. *Sequential Analysis*, 40(3), 381-404. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2021SWSA.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li>
