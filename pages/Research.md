@@ -17,6 +17,11 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 <br>
 <br>
 
+<ol>
+    <li value="3">three</li>
+    <li value="2">two</li>
+    <li value="1">one</li>
+</ol>
 
 #### Peer Reviewed Publications
 
