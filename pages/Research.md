@@ -17,13 +17,16 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 <br>
 <br>
 
+
+#### Peer Reviewed Publications
+
 <ol>
     <li value="3">three</li>
     <li value="2">two</li>
-    <li value="1">one</li>
+    <li value="1">From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
 </ol>
 
-#### Peer Reviewed Publications
+
 
 1. **Ratnasingam, S.**, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
 Sampling Based on Modified Empirical Likelihood. *Journal of Biopharmaceutical Statistics*. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
@@ -49,6 +52,6 @@ Quantile Regression Models with Longitudinal Data. *Journal of Statistical Compu
 5. **Ratnasingam, S.**, Ning, W. (2020), Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion. *Journal of Statistical Theory and Practice*, 14(3), 1-21. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-020-00108-5" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2020SWJSPT.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 
 
-6. From, S. G., **Ratnasingam, S.** (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, *Applied Mathematical Sciences*, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
+6. 
   
  
