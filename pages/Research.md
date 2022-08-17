@@ -20,7 +20,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 #### Peer Reviewed Publications
 
-<div style="line-height:550%;">
+<div style="line-height:75%;">
 
 <ol>
   
