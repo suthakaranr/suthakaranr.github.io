@@ -19,7 +19,10 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 
 #### Peer Reviewed Publications
-<p style="line-height:2.4">
+
+.adjust-line-height {
+  line-height: 1em;
+
 <ol>
   
   <li value="9"> <b>Ratnasingam, S.</b>, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
@@ -45,6 +48,7 @@ Quantile Regression Models with Longitudinal Data. <i>Journal of Statistical Com
   <li value="1">From, S. G.,  <b>Ratnasingam, S.</b> (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, <i>Applied Mathematical Sciences</i>, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
 
 </ol>
-</p>
+
+}
 
  
