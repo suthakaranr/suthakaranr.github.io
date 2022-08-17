@@ -19,7 +19,9 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 
 #### Peer Reviewed Publications
-  
+
+<div style="line-height:150%;">
+
 <ol>
   
   <li value="9"> <b>Ratnasingam, S.</b>, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
@@ -45,4 +47,4 @@ Quantile Regression Models with Longitudinal Data. <i>Journal of Statistical Com
 
 </ol>
 
- 
+</div>
