@@ -19,7 +19,7 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 
 #### Peer Reviewed Publications
-<p style="line-height:1.4">
+<p style="line-height:2.4">
 <ol>
   
   <li value="9"> <b>Ratnasingam, S.</b>, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
