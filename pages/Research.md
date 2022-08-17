@@ -19,13 +19,13 @@ I am happy to advise undergraduate and graduate students. If you are interested 
 
 
 #### Peer Reviewed Publications
-
+<p style="line-height:1.4">
 <ol>
   
   <li value="9"> <b>Ratnasingam, S.</b>, Ning, W. (2022), Confidence Intervals of Mean Residual Life Function in Length-Biased
 Sampling Based on Modified Empirical Likelihood. <i>Journal of Biopharmaceutical Statistics</i>. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 </li>
-  <br>
+  
   <li value="8"> From, S. G.,  <b>Ratnasingam, S.</b> (2022), Some New Inequalities for the Beta Function and Certain Ratios of Beta Functions. <i>Results in Applied
 Mathematics</i>.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">[R Package]</a> </li>
   
@@ -45,6 +45,6 @@ Quantile Regression Models with Longitudinal Data. <i>Journal of Statistical Com
   <li value="1">From, S. G.,  <b>Ratnasingam, S.</b> (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, <i>Applied Mathematical Sciences</i>, 10(52), 2553-2569. <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
 
 </ol>
-
+</p>
 
  
