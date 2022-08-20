@@ -4,8 +4,9 @@ title: Teaching
 description: Suthakaran's teaching portfolio
 ---
 #### CSU San Bernardino
-* Summer 2022
+* Fall 2022
    * <a style="text-decoration:none" href="../pages/StatApp.html" target="_blank" rel="noopener noreferrer">MATH 2265 </a>
+   * <a style="text-decoration:none" href="../pages/MathStat.html" target="_blank" rel="noopener noreferrer">MATH 3465 - Computational Statistics </a> 
   
 ###### Courses Taught
    * MATH 2265 - Statistics with Applications 
