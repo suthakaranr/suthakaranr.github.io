@@ -12,5 +12,5 @@ description: Suthakaran's teaching portfolio
    * MATH 2265 - Statistics with Applications 
    * MATH 3460 - Probability Theory
    * MATH 4360 - Linear Statistical Models
-   * <a style="text-decoration:none" href="../pages/MathStat.html" target="_blank" rel="noopener noreferrer">MATH 5565 - Mathematical Statistics </a> 
+   * MATH 5565 - Mathematical Statistics
 
