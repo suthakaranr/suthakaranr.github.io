@@ -7,8 +7,6 @@ description: Suthakaran's teaching portfolio
 * Fall 2022
    * <a style="text-decoration:none" href="../pages/StatApp.html" target="_blank" rel="noopener noreferrer">MATH 2265 - Statistics with Applications </a>
    * <a style="text-decoration:none" href="../pages/MathStat.html" target="_blank" rel="noopener noreferrer">MATH 3465 - Computational Statistics </a> 
-   * MATH 3951 - Directed Study
-   * MATH 5953 - Independent Study
   
 ###### Courses Taught
    * MATH 2265 - Statistics with Applications 
