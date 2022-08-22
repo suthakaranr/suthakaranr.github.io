@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematical Statistics (MATH 5565)
+title: Computational Statistics (MATH 3460)
 description: Mathematical Statistics
 ---
 
