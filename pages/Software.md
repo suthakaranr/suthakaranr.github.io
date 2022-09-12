@@ -47,7 +47,7 @@ them_3_17(1, 1.5,2) # Theorem 3.17
 
 #### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
 The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
-Generalized Pareto Distribution. Please see the examples below.
+Generalized Pareto Distribution proposed in <a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>.. Please see the examples below.
 
 
 ```{r}
