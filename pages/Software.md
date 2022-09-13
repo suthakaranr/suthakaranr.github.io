@@ -4,6 +4,30 @@ title: Software
 description: R packages
 ---
 
+
+#### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
+The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
+Generalized Pareto Distribution proposed in <a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
+
+
+```{r}
+rm(list = ls())
+library(devtools) # Make sure that the devtools library is loaded
+install_github("suthakaranr/EfficientClosedGPD")
+library(EfficientClosedGPD)  # Load the package 
+set.seed(650) 
+x = rgpd2(40, 2, 2) # Generate sample
+Method1(x) # Method M1
+Method2(x) # Method M2
+Method3(x) # Method M3
+MethodQM(x) # Method QM
+MethodPOS(x) # Method POS
+MethodLCVM(x) # Method LCVM
+```
+
+<br/>
+
+
 #### <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">IneqBetaFun</a> 
 The **R** package **IneqBetaFun** provides several new upper and lower bounds for the Beta function and the quotient of Beta functions proposed in <a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
 
@@ -42,26 +66,6 @@ them_3_16(1, 1.5,2) # Theorem 3.16
 them_3_17(1, 1.5,2) # Theorem 3.17
 ```
 
-<br/>
 
 
-#### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
-The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
-Generalized Pareto Distribution proposed in <a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
-
-
-```{r}
-rm(list = ls())
-library(devtools) # Make sure that the devtools library is loaded
-install_github("suthakaranr/EfficientClosedGPD")
-library(EfficientClosedGPD)  # Load the package 
-set.seed(650) 
-x = rgpd2(40, 2, 2) # Generate sample
-Method1(x) # Method M1
-Method2(x) # Method M2
-Method3(x) # Method M3
-MethodQM(x) # Method QM
-MethodPOS(x) # Method POS
-MethodLCVM(x) # Method LCVM
-```
 
