@@ -26,7 +26,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
   
-   <li value="11"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Change Point Detection in Linear Failure Rate Distribution Under Random Censorship. <i>Journal of Statistical Theory and Practice</i>,17, 12. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-022-00309-0" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJSTP.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+   <li value="11"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Change Point Detection in Linear Failure Rate Distribution Under Random Censorship. <i>Journal of Statistical Theory and Practice</i>,17 (1), 1-22. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-022-00309-0" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJSTP.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
   <li value="10"> From, S. G.,  <b>Ratnasingam, S.</b> (2022), Some Efficient Closed-Form Estimators of the Parameters of the Generalized Pareto Distribution. <i>Environmental and Ecological Statistics</i>, 29, 827–847. <a style="text-decoration:none" href="https://doi.org/10.1007/s10651-022-00548-1" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">[R Package]</a> </li> <br>
   
