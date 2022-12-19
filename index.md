@@ -13,7 +13,7 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
 
 <br>  
 
-Here is my <a style="text-decoration:none" href="../assets/SuthaMathGen.html" target="_blank" rel="noopener noreferrer"><span style="text-align:center">Math Genealogy</span></a>
+Here is my <a style="text-decoration:none" href="../assets/SuthaMathGen.html" target="_blank" rel="noopener noreferrer"><span style="text-align:center">Math Genealogy!</span></a>
 
 
 ---
