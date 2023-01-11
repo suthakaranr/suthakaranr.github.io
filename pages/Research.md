@@ -28,7 +28,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
   
    <li value="11"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Change Point Detection in Linear Failure Rate Distribution Under Random Censorship. <i>Journal of Statistical Theory and Practice</i>,17(1), 1-22. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-022-00309-0" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJSTP.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
-     <li value="10"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Confidence Intervals of Mean Residual Life Function in Length-Biased
+   <li value="10"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Confidence Intervals of Mean Residual Life Function in Length-Biased
 Sampling Based on Modified Empirical Likelihood. <i>Journal of Biopharmaceutical Statistics</i>, 33(1), 114-129. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
   
