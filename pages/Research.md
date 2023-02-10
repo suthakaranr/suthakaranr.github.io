@@ -20,7 +20,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### Peer Reviewed Publications
 
-<sup>*</sup> - denotes co-first authours
+<sup>*</sup> - denotes co-first authors
 
 <div style="line-height:80%;">
 
