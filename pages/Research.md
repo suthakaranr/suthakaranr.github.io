@@ -26,6 +26,11 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
   
+  <li value="12"> Gu, C^{*}., <b>Ratnasingam, S^{*}.</b> (2023),  Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure. <i>Sequential Analysis (In Press) </i>. <br>
+  
+   <li value="12"> Karunanithy, R., <b>Ratnasingam, S.</b>, Holland, TE., Sivakumar, P.  (2023), Sensitive Detection of Human Epididymis Protein-4 (HE4) Ovarian Cancer Biomarker through Sandwich Type Immunoassay Method with Laser-Induced Breakdown Spectroscopy.. <i>Bioconjugate Chemistry</i>. <a style="text-decoration:none" href="https://doi.org/10.1021/acs.bioconjchem.2c00551" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/RKSU2023.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+  
+  
    <li value="11"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Change Point Detection in Linear Failure Rate Distribution Under Random Censorship. <i>Journal of Statistical Theory and Practice</i>,17(1), 1-22. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-022-00309-0" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJSTP.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
    <li value="10"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Confidence Intervals of Mean Residual Life Function in Length-Biased
