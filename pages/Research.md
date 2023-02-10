@@ -27,18 +27,15 @@ I am happy to work with undergraduate and graduate students. If you are interest
 <ol>
   
   <li value="13"> Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup>.</b> (2023),  Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure. <i>Sequential Analysis (In Press) </i>. <br>
-  
+    
    <li value="12"> Karunanithy, R., <b>Ratnasingam, S.</b>, Holland, TE., Sivakumar, P.  (2023), Sensitive Detection of Human Epididymis Protein-4 (HE4) Ovarian Cancer Biomarker through Sandwich Type Immunoassay Method with Laser-Induced Breakdown Spectroscopy. <i>Bioconjugate Chemistry</i>. <a style="text-decoration:none" href="https://doi.org/10.1021/acs.bioconjchem.2c00551" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/RKSU2023.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
-  
   
    <li value="11"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Change Point Detection in Linear Failure Rate Distribution Under Random Censorship. <i>Journal of Statistical Theory and Practice</i>,17(1), 1-22. <a style="text-decoration:none" href="https://doi.org/10.1007/s42519-022-00309-0" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJSTP.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
    <li value="10"> <b>Ratnasingam, S.</b>, Ning, W. (2023), Confidence Intervals of Mean Residual Life Function in Length-Biased
 Sampling Based on Modified Empirical Likelihood. <i>Journal of Biopharmaceutical Statistics</i>, 33(1), 114-129. <a style="text-decoration:none" href="https://doi.org/10.1080/10543406.2022.2089157" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2023SWJBPS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
-  
   <li value="9"> From, S. G.,  <b>Ratnasingam, S.</b> (2022), Some Efficient Closed-Form Estimators of the Parameters of the Generalized Pareto Distribution. <i>Environmental and Ecological Statistics</i>, 29(4), 827–847. <a style="text-decoration:none" href="https://doi.org/10.1007/s10651-022-00548-1" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">[R Package]</a> </li> <br>
-  
   
   <li value="8"> From, S. G.,  <b>Ratnasingam, S.</b> (2022), Some New Inequalities for the Beta Function and Certain Ratios of Beta Functions. <i>Results in Applied Mathematics</i>, 15, 100302.  <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2022.100302" target="_blank" rel="noopener noreferrer">[doi]</a><a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">[R Package]</a> </li> <br>
   
