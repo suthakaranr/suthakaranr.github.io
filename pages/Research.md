@@ -57,3 +57,18 @@ Quantile Regression Models with Longitudinal Data. <a style="text-decoration:non
 </ol>
 
 </div>
+
+
+#### Articles Under Review
+
+<div style="line-height:80%;">
+
+<ol>
+
+  
+<li value="11"> <b>Ratnasingam, S.</b>, Butenko, A., U - Statistics Based Jackknife Empirical Likelihood Tests for the Generalized Lorenz Curves. <a style="text-decoration:none" href="https://arxiv.org/abs/2304.06601" target="_blank" rel="noopener noreferrer"><i>arXiv</i></a> </li> <br>
+ 
+  
+</ol>
+
+</div>
