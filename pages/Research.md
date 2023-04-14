@@ -55,13 +55,10 @@ Quantile Regression Models with Longitudinal Data. <a style="text-decoration:non
   <li value="1">From, S. G.,  <b>Ratnasingam, S.</b> (2016), Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, <a style="text-decoration:none" href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank" rel="noopener noreferrer"><i>Applied Mathematical Sciences</i></a>, 10(52), 2553-2569. <a style="text-decoration:none" href="../assets/2016FSAMS.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li> <br>
 
 </ol>
-
 </div>
 
 
 <br>
-<br>
-
 #### Articles Under Review
 
 <div style="line-height:80%;">
