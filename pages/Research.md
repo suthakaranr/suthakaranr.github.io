@@ -21,6 +21,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 #### Peer Reviewed Publications
 
 <sup>*</sup> - denotes co-first authors
+<sup>&delta</sup> - denotes co-first authors
 
 <div style="line-height:80%;">
 
@@ -66,9 +67,11 @@ Quantile Regression Models with Longitudinal Data. <a style="text-decoration:non
 <ol>
 
   
-<li value="11"> <b>Ratnasingam, S.</b>, Butenko, A., U - Statistics Based Jackknife Empirical Likelihood Tests for the Generalized Lorenz Curves. <a style="text-decoration:none" href="https://arxiv.org/abs/2304.06601" target="_blank" rel="noopener noreferrer"><i>arXiv</i></a> </li> <br>
+<li value="2"> <b>Ratnasingam, S.</b>, Butenko, A., U - Statistics Based Jackknife Empirical Likelihood Tests for the Generalized Lorenz Curves. <a style="text-decoration:none" href="https://arxiv.org/abs/2304.06601" target="_blank" rel="noopener noreferrer"><i>arXiv</i></a> </li> <br>
  
-  
+<li value="1"> <b>Ratnasingam, S.</b>, Wallace, S., Amani, I., Romero, J., Non-Parametric Confidence Intervals for Generalized Lorenz Curve Using Modified Empirical Likelihood. <a style="text-decoration:none" href="https://arxiv.org/abs/2304.04124" target="_blank" rel="noopener noreferrer"><i>arXiv</i></a> </li> <br>
+ 
+
 </ol>
 
 </div>
