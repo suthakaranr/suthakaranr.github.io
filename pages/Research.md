@@ -26,7 +26,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
   
-  <li value="13"> Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup>.</b> (2023),  Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2023.2187416" target="_blank" rel="noopener noreferrer"><i>Sequential Analysis</i></a>. <a style="text-decoration:none" href="../assets/2023CGSR.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+  <li value="13"> Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup>.</b> (2023),  Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2023.2187416" target="_blank" rel="noopener noreferrer"><i>Sequential Analysis</i></a>, 42(2), 129-149. <a style="text-decoration:none" href="../assets/2023CGSR.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
     
    <li value="12"> Karunanithy, R., <b>Ratnasingam, S.</b>, Holland, TE., Sivakumar, P.  (2023), Sensitive Detection of Human Epididymis Protein-4 (HE4) Ovarian Cancer Biomarker through Sandwich Type Immunoassay Method with Laser-Induced Breakdown Spectroscopy. <a style="text-decoration:none" href="https://doi.org/10.1021/acs.bioconjchem.2c00551" target="_blank" rel="noopener noreferrer"><i>Bioconjugate Chemistry</i></a> 34(3), 501–509. <a style="text-decoration:none" href="../assets/2023RKSU.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
