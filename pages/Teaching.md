@@ -16,7 +16,7 @@ description: Suthakaran's teaching portfolio
    * MATH 4360 - Linear Statistical Models
    * MATH 5565 - Mathematical Statistics
    * MATH 5953 - Independent Study
-   * Math 6953 - Graduate Independent Study
-   * Math 6972 - Graduate Thesis I
-   * Math 6974 - Graduate Thesis II
+   * MATH 6953 - Graduate Independent Study
+   * MATH 6972 - Graduate Thesis I
+   * MATH 6974 - Graduate Thesis II
 
