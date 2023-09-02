@@ -20,7 +20,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### Peer Reviewed Publications
 
-<sup>*</sup> - denotes joint first authors;
+<sup>*</sup> - denotes joint first authors; <br>
 <sup>+</sup> - denotes undergraduate/graduate students who work with me.
 
 
