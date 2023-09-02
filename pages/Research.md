@@ -20,13 +20,15 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### Peer Reviewed Publications
 
-<sup>*</sup> - denotes co-first authors
+<sup>*</sup> - denotes joint first authors;
+<sup>+</sup> - denotes undergraduate/graduate students who work with me.
+
 
 <div style="line-height:80%;">
 
 <ol>
 
-   <li value="14"> <b>Ratnasingam, S.</b>, Muñoz-Lopez, J. (2023), Distance Correlation-Based Feature Selection in Random Forest. <a style="text-decoration:none" href="https://doi.org/10.3390/e25091250" target="_blank" rel="noopener noreferrer"><i>Entropy</i></a>, 25(9), 1250. <a style="text-decoration:none" href="../assets/2023SJEN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+   <li value="14"> <b>Ratnasingam, S.</b>, Muñoz-Lopez, J.<sup>+</sup> (2023), Distance Correlation-Based Feature Selection in Random Forest. <a style="text-decoration:none" href="https://doi.org/10.3390/e25091250" target="_blank" rel="noopener noreferrer"><i>Entropy</i></a>, 25(9), 1250. <a style="text-decoration:none" href="../assets/2023SJEN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
   <li value="13"> Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup>.</b> (2023),  Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2023.2187416" target="_blank" rel="noopener noreferrer"><i>Sequential Analysis</i></a>, 42(2), 129-149. <a style="text-decoration:none" href="../assets/2023CGSR.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
     
