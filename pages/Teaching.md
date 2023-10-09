@@ -5,7 +5,7 @@ description: Suthakaran's teaching portfolio
 ---
 #### CSU San Bernardino
 * Fall 2023
-   * <a style="text-decoration:none" href="../pages/LinStatModProj.html" target="_blank" rel="noopener noreferrer">MATH 4360-01 - Linear Statistical Models 
+   * <a style="text-decoration:none" href="../pages/LinStatModNewProj.html" target="_blank" rel="noopener noreferrer">MATH 4360-01 - Linear Statistical Models 
    * <a style="text-decoration:none" href="../pages/StatApp.html" target="_blank" rel="noopener noreferrer">MATH 2265-02 - Statistics with Applications 
    * <a style="text-decoration:none" href="../pages/StatApp.html" target="_blank" rel="noopener noreferrer">MATH 2265-03 - Statistics with Applications </a>
 
