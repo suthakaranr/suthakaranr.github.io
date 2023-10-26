@@ -30,7 +30,7 @@ I am currently an Assistant Professor in the Department of Mathematics at Califo
 
         <div class="span2">
         <a href="../assets/headshot.png">
-            <img src="../assets/headshot.png"
+            <img src="../assets/headshot.jpg"
                   title="Suthakaran Ratnasingam" alt="Suthakaran Ratnasingam"/></a>
         </div>
     </div>
