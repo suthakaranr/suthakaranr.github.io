@@ -28,7 +28,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
 
-   <li value="15"> <b>Ratnasingam, S.</b>, Wallace, S.<sup>+</sup>, Amani, I.<sup>+</sup>, Romero , J.<sup>+</sup> (2023), Nonparametric confidence intervals for generalized Lorenz curve using modified empirical likelihood. <a style="text-decoration:none" href="https://doi.org/10.1007/s00180-023-01431-8" target="_blank" rel="noopener noreferrer"><i>Entropy</i></a>, 25(9), 1250. <a style="text-decoration:none" href="../assets/2023SRSIJ.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+   <li value="15"> <b>Ratnasingam, S.</b>, Wallace, S.<sup>+</sup>, Amani, I.<sup>+</sup>, Romero , J.<sup>+</sup> (2023), Nonparametric confidence intervals for generalized Lorenz curve using modified empirical likelihood. <a style="text-decoration:none" href="https://doi.org/10.1007/s00180-023-01431-8" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>. <a style="text-decoration:none" href="../assets/2023SRSIJ.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
    <li value="14"> <b>Ratnasingam, S.</b>, Muñoz-Lopez, J.<sup>+</sup> (2023), Distance Correlation-Based Feature Selection in Random Forest. <a style="text-decoration:none" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528294/" target="_blank" rel="noopener noreferrer"><i>Entropy</i></a>, 25(9), 1250. <a style="text-decoration:none" href="../assets/2023SJEN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
   
