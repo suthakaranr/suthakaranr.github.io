@@ -4,7 +4,7 @@ title: Teaching
 description: Suthakaran's teaching portfolio
 ---
 #### CSU San Bernardino
-* Fall 2023
+* Spring 2024
    * <a style="text-decoration:none"  target="_blank" rel="noopener noreferrer">MATH 2310 - Applied Linear Algebra 
    * <a style="text-decoration:none" href="../pages/MathStat.html" target="_blank" rel="noopener noreferrer">MATH 5565 - Mathematical Statistics </a>
 
