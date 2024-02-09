@@ -10,7 +10,7 @@ description: Suthakaran's teaching portfolio
 
   
 ###### Courses Taught
-   * MATH 2265 - Statistics with Applications 
+   * <a style="text-decoration:none" href="../pages/MathStat.html" target="_blank" rel="noopener noreferrer">MATH 2265 - Statistics with Applications</a> 
    * MATH 3460 - Probability Theory
    * MATH 3465 - Computational Statistics
    * MATH 4320 - Introduction to Actuarial Modeling
