@@ -28,7 +28,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
 
-   <li value="16"> <b>Ratnasingam, S.</b>, Gamage, R.D.P. (2024), Empirical likelihood change point detection in quantile regression models. <a style="text-decoration:none" href="[https://doi.org/10.1007/s00180-023-01431-8](https://doi.org/10.1007/s00180-024-01526-w)" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>. <a style="text-decoration:none" href="../assets/2024SRRG.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+   <li value="16"> <b>Ratnasingam, S.</b>, Gamage, R. D. P. (2024), Empirical likelihood change point detection in quantile regression models. <a style="text-decoration:none" href="[https://doi.org/10.1007/s00180-023-01431-8](https://doi.org/10.1007/s00180-024-01526-w)" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>. <a style="text-decoration:none" href="../assets/2024SRRG.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
    <li value="15"> <b>Ratnasingam, S.</b>, Wallace, S.<sup>+</sup>, Amani, I.<sup>+</sup>, Romero , J.<sup>+</sup> (2023), Nonparametric Confidence Intervals for Generalized Lorenz Curve Using Modified Empirical Likelihood. <a style="text-decoration:none" href="https://doi.org/10.1007/s00180-023-01431-8" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>. <a style="text-decoration:none" href="../assets/2023SRSIJ.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
