@@ -28,7 +28,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
 
-   <li value="16">  Li, M., <b>Ratnasingam, S.</b>, Tian, Y., Ning, W. (2024), Change Point Detection in Length-biased Lognormal Distribution. <a style="text-decoration:none" href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank" rel="noopener noreferrer"><i>Communications in Statistics - Simulation and Computation</i></a>. <a style="text-decoration:none" href="../assets/2024SRWN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
+   <li value="17">  Li, M., <b>Ratnasingam, S.</b>, Tian, Y., Ning, W. (2024), Change Point Detection in Length-biased Lognormal Distribution. <a style="text-decoration:none" href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank" rel="noopener noreferrer"><i>Communications in Statistics - Simulation and Computation</i></a>. <a style="text-decoration:none" href="../assets/2024SRWN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
    <li value="16"> <b>Ratnasingam, S.</b>, Gamage, R. D. P. (2024), Empirical Likelihood Change Point Detection in Quantile Regression Models. <a style="text-decoration:none" href="https://doi.org/10.1007/s00180-024-01526-w" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>. <a style="text-decoration:none" href="../assets/2024SRRG.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
