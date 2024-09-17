@@ -4,7 +4,7 @@ title: Teaching
 description: Suthakaran's teaching portfolio
 ---
 #### CSU San Bernardino
-* Spring 2024
+* Fall 2024
    * <a style="text-decoration:none"  target="_blank" rel="noopener noreferrer">MATH 4320 - Introduction to Actuarial Modeling 
    * <a style="text-decoration:none" href="../pages/LinStatModProj.html" target="_blank" rel="noopener noreferrer">MATH 4360 - Linear Statistical Models </a>
 
