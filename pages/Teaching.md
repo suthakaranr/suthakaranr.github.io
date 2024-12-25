@@ -4,7 +4,7 @@ title: Teaching
 description: Suthakaran's teaching portfolio
 ---
 #### CSU San Bernardino
-* Fall 2024
+* Spring 2025
    * <a style="text-decoration:none"  target="_blank" rel="noopener noreferrer"> MATH 3320 - Mathematical Interest Theory
    * <a style="text-decoration:none"  target="_blank" rel="noopener noreferrer"> MATH 3460 - Probability Theory
    * <a style="text-decoration:none"  target="_blank" rel="noopener noreferrer"> MATH 5565 - Mathematical Statistics
