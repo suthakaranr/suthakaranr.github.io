@@ -15,7 +15,7 @@ description: Suthakaran's teaching portfolio
    * MATH 3460 - Probability Theory
    * MATH 3465 - Computational Statistics
    * MATH 4320 - Introduction to Actuarial Modeling
-   * <a style="text-decoration:none" href="../pages/LinStatModProj.html" target="_blank" rel="noopener noreferrer">MATH 4360 - Linear Statistical 
+   * <a style="text-decoration:none" href="../pages/LinStatModProj.html" target="_blank" rel="noopener noreferrer">MATH 4360 - Linear Statistical Models
    * MATH 5565 - Mathematical Statistics
    * MATH 5953 - Independent Study
    * MATH 6953 - Graduate Independent Study
