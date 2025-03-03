@@ -28,6 +28,9 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 <ol>
 
+  <li value="18"> From, S. G.,  <b>Ratnasingam, S.</b> (2025), New Upper and Lower Bounds for the Upper Incomplete Gamma Function. <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2025.100552" target="_blank" rel="noopener noreferrer"><i>Results in Applied Mathematics</i></a>, 25, 100552.  <a style="text-decoration:none" href="../assets/2025FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li> <br>
+
+
    <li value="17"> <b>Ratnasingam, S.</b>, Gamage, R. D. P. (2025), Empirical Likelihood Change Point Detection in Quantile Regression Models. <a style="text-decoration:none" href="https://doi.org/10.1007/s00180-024-01526-w" target="_blank" rel="noopener noreferrer"><i>Computational Statistics</i></a>, 40, 999–1020. <a style="text-decoration:none" href="../assets/2024SRRG.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
    
    <li value="16">  Li, M., <b>Ratnasingam, S.</b>, Tian, Y., Ning, W. (2024), Change Point Detection in Length-biased Lognormal Distribution. <a style="text-decoration:none" href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank" rel="noopener noreferrer"><i>Communications in Statistics - Simulation and Computation</i></a>. <a style="text-decoration:none" href="../assets/2024SRWN.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
