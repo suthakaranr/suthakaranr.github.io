@@ -27,6 +27,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 <div style="line-height:80%;">
 
 <ol>
+  <li value="19"> Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup>.</b> (2023),  Change Point Detection in SCAD-Penalized Dynamic Panel Models. <a style="text-decoration:none" href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank" rel="noopener noreferrer"><i>Sequential Analysis</i></a>. <a style="text-decoration:none" href="../assets/2025CGSR.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> </li> <br>
 
   <li value="18"> From, S. G.,  <b>Ratnasingam, S.</b> (2025), New Upper and Lower Bounds for the Upper Incomplete Gamma Function. <a style="text-decoration:none" href="https://doi.org/10.1016/j.rinam.2025.100552" target="_blank" rel="noopener noreferrer"><i>Results in Applied Mathematics</i></a>, 25, 100552.  <a style="text-decoration:none" href="../assets/2025FSRINAM.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li> <br>
 
