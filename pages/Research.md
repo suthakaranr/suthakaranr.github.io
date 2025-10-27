@@ -4,7 +4,7 @@ title: Research
 description: Suthakaran's research portfolio
 ---
 
-### Areas of Interest
+#### Areas of Interest
 
 * Change Point Analysis
 * Sequential Data Analysis
@@ -16,7 +16,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 ---
 
-### Peer Reviewed Publications
+# Peer Reviewed Publications
 
 ### [2025]
 
