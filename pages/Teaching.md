@@ -4,8 +4,6 @@ title: Teaching
 description: Suthakaran's teaching portfolio
 ---
 
-# Teaching
-
 #### CSU San Bernardino
 
 * Fall 2025
@@ -13,7 +11,7 @@ description: Suthakaran's teaching portfolio
 
 ---
 
-# Courses Taught
+#### Courses Taught
 
 * [MATH 2265 - Statistics with Applications](../pages/StatApp.html)
 * MATH 2310 - Applied Linear Algebra
