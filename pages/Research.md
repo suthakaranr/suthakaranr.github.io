@@ -21,7 +21,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ###### 2025
 
 *Change Point Detection in SCAD-Penalized Dynamic Panel Models | [Sequential Analysis](https://doi.org/10.1080/07474946.2025.2510372) | [pdf](../assets/2025CGSR.pdf)*  
-Authors: Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup></b>.  
+Authors: Gu, C<sup>* </sup>., <b>Ratnasingam, S<sup>*</sup></b>.  
 *Sequential Analysis, 2025*
 
 *New Upper and Lower Bounds for the Upper Incomplete Gamma Function | [Results in Applied Mathematics](https://doi.org/10.1016/j.rinam.2025.100552) | [pdf](../assets/2025FSRINAM.pdf)*  
@@ -49,7 +49,7 @@ Authors: <b>Ratnasingam, S.</b>, Muñoz-Lopez, J.<sup>+</sup>
 *Entropy, 25(9), 1250*
 
 *Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure | [Sequential Analysis](https://doi.org/10.1080/07474946.2023.2187416) | [pdf](../assets/2023CGSR.pdf)*  
-Authors: Gu, C<sup>*</sup>., <b>Ratnasingam, S<sup>*</sup></b>  
+Authors: Gu, C<sup>* </sup>., <b>Ratnasingam, S<sup>*</sup></b>  
 *Sequential Analysis, 42(2), 129-149*
 
 *Sensitive Detection of Human Epididymis Protein-4 (HE4) Ovarian Cancer Biomarker through Sandwich Type Immunoassay Method with Laser-Induced Breakdown Spectroscopy | [Bioconjugate Chemistry](https://doi.org/10.1021/acs.bioconjchem.2c00551) | [pdf](../assets/2023RKSU.pdf)*  
