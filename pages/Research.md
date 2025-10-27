@@ -44,7 +44,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ---
 
 
-#### [2023]
+##### [2023]
 
 14) <b>Ratnasingam, S.</b>, & Muñoz-Lopez, J.<sup>+</sup> (2023).  
    Distance Correlation-Based Feature Selection in Random Forest, <i><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528294/" target="_blank">Entropy</a></i> 25(9), 1250. [<a href="../assets/2023SJEN.pdf" target="_blank">pdf</a>]
@@ -65,7 +65,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 
 
-#### [2022]
+##### [2022]
 
 9) From, S. G., & <b>Ratnasingam, S.</b> (2022).  
     Some Efficient Closed-Form Estimators of the Parameters of the Generalized Pareto Distribution, <i><a href="https://doi.org/10.1007/s10651-022-00548-1" target="_blank">Environmental and Ecological Statistics</a></i> 29(4), 827–847. [<a href="../assets/2022FSEES.pdf" target="_blank">pdf</a>] [<a href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank">R Package</a>]
@@ -80,7 +80,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 
 
-#### [2021]
+##### [2021]
 
 6) <b>Ratnasingam, S.</b>, & Ning, W. (2021).  
     Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models, <i><a href="https://doi.org/10.1080/07474946.2021.1940500" target="_blank">Sequential Analysis</a></i> 40(3), 381-404. [<a href="../assets/2021SWSA.pdf" target="_blank">pdf</a>]
@@ -97,7 +97,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ---
 
 
-#### [2020]
+##### [2020]
 
 2) <b>Ratnasingam, S.</b>, & Ning, W. (2020).  
     Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion, <i><a href="https://doi.org/10.1007/s42519-020-00108-5" target="_blank">Journal of Statistical Theory and Practice</a></i> 14(3), 1-21. [<a href="../assets/2020SWJSPT.pdf" target="_blank">pdf</a>]
@@ -106,7 +106,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ---
 
 
-#### [2016]
+##### [2016]
 
 1) From, S. G., & <b>Ratnasingam, S.</b> (2016).  
     Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, <i><a href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank">Applied Mathematical Sciences</a></i> 10(52), 2553-2569. [<a href="../assets/2016FSAMS.pdf" target="_blank">pdf</a>]
