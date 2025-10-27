@@ -16,7 +16,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 ---
 
-# Peer Reviewed Publications
+### Peer Reviewed Publications
 
 ###### 2025
 
