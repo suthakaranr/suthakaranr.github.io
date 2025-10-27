@@ -17,7 +17,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ---
 
 
-##### 2025
+##### [2025]
 
 19) Gu, C <sup> * </sup>., & <b>Ratnasingam, S <sup> * </sup></b>. (2025).  
    Change Point Detection in SCAD-Penalized Dynamic Panel Models, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank">Sequential Analysis</a></i>. [<a href="../assets/2025CGSR.pdf" target="_blank">pdf</a>]
@@ -33,7 +33,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ---
 
 
-##### 2024
+##### [2024]
 
 16) Li, M., <b>Ratnasingam, S.</b>, Tian, Y., & Ning, W. (2024).  
    Change Point Detection in Length-biased Lognormal Distribution, <i><a href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank">Communications in Statistics - Simulation and Computation</a></i>. [<a href="../assets/2024SRWN.pdf" target="_blank">pdf</a>]
