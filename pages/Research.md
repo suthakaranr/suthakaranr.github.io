@@ -111,7 +111,6 @@ I am happy to work with undergraduate and graduate students. If you are interest
 1) From, S. G., & <b>Ratnasingam, S.</b> (2016).  
     Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications, <i><a href="http://dx.doi.org/10.12988/ams.2016.66191" target="_blank">Applied Mathematical Sciences</a></i> 10(52), 2553-2569. [<a href="../assets/2016FSAMS.pdf" target="_blank">pdf</a>]
 
----
 
 <sup>*</sup> - denotes joint first authors; <br>
 <sup>+</sup> - denotes undergraduate/graduate students who work with me.
