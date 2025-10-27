@@ -18,7 +18,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### Peer Reviewed Publications
 
-###### 2025
+#### 2025
 
 *Change Point Detection in SCAD-Penalized Dynamic Panel Models | [Sequential Analysis](https://doi.org/10.1080/07474946.2025.2510372) | [pdf](../assets/2025CGSR.pdf)*  
 Authors: Gu, C<sup> * </sup>., <b>Ratnasingam, S<sup> * </sup></b>.  
@@ -32,7 +32,7 @@ Authors: From, S. G., <b>Ratnasingam, S.</b>
 Authors: <b>Ratnasingam, S.</b>, Gamage, R. D. P.  
 *Computational Statistics, 40, 999–1020*
 
-###### 2024
+#### 2024
 
 *Change Point Detection in Length-biased Lognormal Distribution | [Communications in Statistics - Simulation and Computation](https://doi.org/10.1080/03610918.2024.2386561) | [pdf](../assets/2024SRWN.pdf)*  
 Authors: Li, M., <b>Ratnasingam, S.</b>, Tian, Y., Ning, W.  
@@ -42,7 +42,7 @@ Authors: Li, M., <b>Ratnasingam, S.</b>, Tian, Y., Ning, W.
 Authors: <b>Ratnasingam, S.</b>, Wallace, S.<sup>+</sup>, Amani, I.<sup>+</sup>, Romero, J.<sup>+</sup>  
 *Computational Statistics, 39, 3073–3090*
 
-###### 2023
+#### 2023
 
 *Distance Correlation-Based Feature Selection in Random Forest | [Entropy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528294/) | [pdf](../assets/2023SJEN.pdf)*  
 Authors: <b>Ratnasingam, S.</b>, Muñoz-Lopez, J.<sup>+</sup>  
@@ -64,7 +64,7 @@ Authors: <b>Ratnasingam, S.</b>, Ning, W.
 Authors: <b>Ratnasingam, S.</b>, Ning, W.  
 *Journal of Biopharmaceutical Statistics, 33(1), 114-129*
 
-###### 2022
+#### 2022
 
 *Some Efficient Closed-Form Estimators of the Parameters of the Generalized Pareto Distribution | [Environmental and Ecological Statistics](https://doi.org/10.1007/s10651-022-00548-1) | [pdf](../assets/2022FSEES.pdf) | [R Package](https://github.com/suthakaranr/EfficientClosedGPD)*  
 Authors: From, S. G., <b>Ratnasingam, S.</b>  
@@ -78,7 +78,7 @@ Authors: From, S. G., <b>Ratnasingam, S.</b>
 Authors: Li, M., <b>Ratnasingam, S.</b>, Ning, W.  
 *Journal of Statistical Computation and Simulation, 92(12), 2536-2553*
 
-###### 2021
+#### 2021
 
 *Monitoring Sequential Structural Changes in Penalized High-Dimensional Linear Models | [Sequential Analysis](https://doi.org/10.1080/07474946.2021.1940500) | [pdf](../assets/2021SWSA.pdf)*  
 Authors: <b>Ratnasingam, S.</b>, Ning, W.  
@@ -96,13 +96,13 @@ Authors: <b>Ratnasingam, S.</b>, Ning, W.
 Authors: <b>Ratnasingam, S.</b>, Ning, W.  
 *Biometrical Journal, 63(3), 575-598*
 
-###### 2020
+#### 2020
 
 *Confidence Distributions for Skew Normal Change-Point Model Based on Modified Information Criterion | [Journal of Statistical Theory and Practice](https://doi.org/10.1007/s42519-020-00108-5) | [pdf](../assets/2020SWJSPT.pdf)*  
 Authors: <b>Ratnasingam, S.</b>, Ning, W.  
 *Journal of Statistical Theory and Practice, 14(3), 1-21*
 
-###### 2016
+#### 2016
 
 *Some New Refinements of the Arithmetic, Geometric and Harmonic Mean Inequalities with Applications | [Applied Mathematical Sciences](http://dx.doi.org/10.12988/ams.2016.66191) | [pdf](../assets/2016FSAMS.pdf)*  
 Authors: From, S. G., <b>Ratnasingam, S.</b>  
