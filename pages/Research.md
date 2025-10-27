@@ -20,7 +20,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### 2025
 
-Gu, C<sup> * </sup>., <b>Ratnasingam, S<sup> * </sup></b>
+Gu, C<sup> * </sup>., <b>Ratnasingam, S<sup> * </sup>
 *Change Point Detection in SCAD-Penalized Dynamic Panel Models | [Sequential Analysis](https://doi.org/10.1080/07474946.2025.2510372) | [pdf](../assets/2025CGSR.pdf)*.</b>
 *Sequential Analysis, 2025*
 
