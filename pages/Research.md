@@ -20,7 +20,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 
 #### [2025]
 
-19) Gu, C<sup>*</sup>., & <b>Ratnasingam, S<sup>*</sup></b>. (2025).  
+19) Gu, C <sup> * </sup>., & <b>Ratnasingam, S <sup> * </sup></b>. (2025).  
    Change Point Detection in SCAD-Penalized Dynamic Panel Models, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank">Sequential Analysis</a></i>. [<a href="../assets/2025CGSR.pdf" target="_blank">pdf</a>]
 
 18) From, S. G., & <b>Ratnasingam, S.</b> (2025).  
@@ -42,7 +42,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 14) <b>Ratnasingam, S.</b>, & Muñoz-Lopez, J.<sup>+</sup> (2023).  
    Distance Correlation-Based Feature Selection in Random Forest, <i><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528294/" target="_blank">Entropy</a></i> 25(9), 1250. [<a href="../assets/2023SJEN.pdf" target="_blank">pdf</a>]
 
-13) Gu, C<sup>*</sup>., & <b>Ratnasingam, S<sup>*</sup></b> (2023).  
+13) Gu, C<sup> * </sup>., & <b>Ratnasingam, S<sup> * </sup></b> (2023).  
    Real-Time Change Point Detection in Linear Models Using the Ranking Selection Procedure, <i><a href="https://doi.org/10.1080/07474946.2023.2187416" target="_blank">Sequential Analysis</a></i> 42(2), 129-149. [<a href="../assets/2023CGSR.pdf" target="_blank">pdf</a>]
 
 12) Karunanithy, R., <b>Ratnasingam, S.</b>, Holland, TE., & Sivakumar, P. (2023).  
