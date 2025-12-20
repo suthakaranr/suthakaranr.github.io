@@ -20,7 +20,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ##### [2025]
 
 19) Gu, C <sup> * </sup>., & <b>Ratnasingam, S <sup> * </sup></b>. (2025).  
-   Change Point Detection in SCAD-Penalized Dynamic Panel Models, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank">Sequential Analysis</a></i>. [<a href="../assets/2025CGSR.pdf" target="_blank">pdf</a>]
+   Change Point Detection in SCAD-Penalized Dynamic Panel Models, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank">Sequential Analysis</a></i>, 44(4), 377-403. [<a href="../assets/2025CGSR.pdf" target="_blank">pdf</a>]
 
 18) From, S. G., & <b>Ratnasingam, S.</b> (2025).  
    New Upper and Lower Bounds for the Upper Incomplete Gamma Function, <i><a href="https://doi.org/10.1016/j.rinam.2025.100552" target="_blank">Results in Applied Mathematics</a></i> 25, 100552. [<a href="../assets/2025FSRINAM.pdf" target="_blank">pdf</a>]
@@ -36,7 +36,7 @@ I am happy to work with undergraduate and graduate students. If you are interest
 ##### [2024]
 
 16) Li, M., <b>Ratnasingam, S.</b>, Tian, Y., & Ning, W. (2024).  
-   Change Point Detection in Length-biased Lognormal Distribution, <i><a href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank">Communications in Statistics - Simulation and Computation</a></i>. [<a href="../assets/2024SRWN.pdf" target="_blank">pdf</a>]
+   Change Point Detection in Length-biased Lognormal Distribution, <i><a href="https://doi.org/10.1080/03610918.2024.2386561" target="_blank">Communications in Statistics - Simulation and Computation</a></i>, 54(11) 4605-4622. [<a href="../assets/2024SRWN.pdf" target="_blank">pdf</a>]
 
 15) <b>Ratnasingam, S.</b>, Wallace, S.<sup>+</sup>, Amani, I.<sup>+</sup>, & Romero, J.<sup>+</sup> (2024).  
    Nonparametric Confidence Intervals for Generalized Lorenz Curve Using Modified Empirical Likelihood, <i><a href="https://doi.org/10.1007/s00180-023-01431-8" target="_blank">Computational Statistics</a></i> 39, 3073–3090. [<a href="../assets/2023SRSIJ.pdf" target="_blank">pdf</a>]
