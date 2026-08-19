@@ -6,13 +6,15 @@ description: Suthakaran's teaching portfolio
 
 #### CSU San Bernardino
 
-* Fall 2025
-  * [MATH 4360 - Linear Statistical Models](../pages/LinStatModProj.html)
+* Fall 2026
+  * MATH 2265 - Statistics with Applications
+  * MATH 1201 - Introduction to Statistical Thinking
 
 ---
 
 #### Courses Taught
 
+* MATH 1201 - Introduction to Statistical Thinking
 * [MATH 2265 - Statistics with Applications](../pages/StatApp.html)
 * MATH 2310 - Applied Linear Algebra
 * MATH 3320 - Mathematical Interest Theory
