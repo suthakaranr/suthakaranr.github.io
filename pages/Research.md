@@ -15,7 +15,7 @@ description: Suthakaran's research portfolio
 I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
 
 ---
-
+20) From, S. G., & <b>Ratnasingam, S.</b> (2026), Some New Bounds for the Dirichlet Beta Function, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank"> Aust. J. Math. Anal. Appl.</a></i>, 23(1), Article 13, 1–22. [<a href="../assets/2026SFSRAJMAA.pdf" target="_blank">pdf</a>]
 
 19) Gu, C <sup> * </sup>., & <b>Ratnasingam, S <sup> * </sup></b>. (2025), Change Point Detection in SCAD-Penalized Dynamic Panel Models, <i><a href="https://doi.org/10.1080/07474946.2025.2510372" target="_blank">Sequential Analysis</a></i>, 44(4), 377-403. [<a href="../assets/2025CGSR.pdf" target="_blank">pdf</a>]
 
