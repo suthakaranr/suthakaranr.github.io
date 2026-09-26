@@ -105,7 +105,6 @@ hr.rule {
   letter-spacing: 0.01em;
 }
 .site-name:hover { color: #fff; }
-.site-name .mark { color: var(--accent-soft); font-weight: 700; }
 
 .site-nav nav {
   display: flex;
@@ -455,7 +454,7 @@ main { display: block; }
   <header class="site-nav">
     <div class="nav-inner">
       <a class="site-name" href="{{ '/' | relative_url }}">
-        <span class="mark">&Sigma;</span> {{ site.title }}
+        {{ site.title }}
       </a>
       <nav aria-label="Primary">
         {% assign here = page.url %}
