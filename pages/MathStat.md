@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mathematical Statistics (MATH 5565)
-description: Mathematical Statistics
 ---
 
 
