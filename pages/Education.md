@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Education
-description: Academic background and degrees
 ---
 
 * **Ph.D. in Statistics**, Bowling Green State University, OH, USA, 2020
