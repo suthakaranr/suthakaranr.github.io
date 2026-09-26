@@ -1,0 +1,41 @@
+# Site settings -------------------------------------------------------------
+title: Suthakaran Ratnasingam
+tagline: Associate Professor of Statistics
+description: >-
+  Suthakaran Ratnasingam is an Associate Professor in the Department of
+  Mathematics at California State University, San Bernardino. His research
+  covers change point analysis, sequential data analysis, and high-dimensional
+  statistical inference.
+url: "https://suthakaranr.github.io"
+baseurl: ""
+
+author:
+  name: Suthakaran Ratnasingam
+  email: suthakaran.ratnasingam@csusb.edu
+  github: suthakaranr
+
+# Primary navigation, in order. Edit this list to add, remove, or reorder
+# links in the top navigation bar across every page.
+nav:
+  - title: Home
+    url: /
+  - title: Education
+    url: /pages/Education.html
+  - title: Research
+    url: /pages/Research.html
+  - title: Teaching
+    url: /pages/Teaching.html
+  - title: Software
+    url: /pages/Software.html
+
+cv_url: /assets/SR.pdf
+
+# Markdown / build -----------------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - License.md
+  - vendor
