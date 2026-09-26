@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-description: 
 ---
 
 #### Areas of Interest
