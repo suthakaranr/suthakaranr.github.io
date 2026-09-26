@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Linear Statistical Models (MATH 4360)
-description: Linear Statistical Models
 ---
 
 
