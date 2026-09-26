@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-description: Suthakaran's teaching portfolio
 ---
 
 #### CSU San Bernardino
