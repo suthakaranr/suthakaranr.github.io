@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Suthakaran's research portfolio
+description: 
 ---
 
 #### Areas of Interest
