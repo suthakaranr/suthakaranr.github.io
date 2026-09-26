@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="hero-grid">
+
+    <div class="hero-main">
+      <p class="eyebrow-plain">Welcome</p>
+      <h1>{{ page.name | default: site.title }}</h1>
+      <p class="tagline">{{ page.position }} &middot; {{ page.department }}, {{ page.institution }}</p>
+
+      <div class="prose">
+        {{ content }}
+      </div>
+    </div>
+
+    <aside class="hero-side">
+      <div class="card">
+        {% if page.photo %}
+        <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.name }}">
+        {% endif %}
+        <p class="card-name">{{ page.name }}</p>
+        <p class="card-role">{{ page.position }}<br>{{ page.department }}<br>{{ page.institution }}</p>
+
+        <hr class="rule">
+
+        <ul class="contact-list">
+          <li><span class="label">Email</span><a href="mailto:{{ page.email }}">{{ page.email }}</a></li>
+          {% if page.office %}<li><span class="label">Office</span>{{ page.office }}</li>{% endif %}
+          {% if page.phone %}<li><span class="label">Phone</span>{{ page.phone }}</li>{% endif %}
+        </ul>
+
+        <div class="card-actions">
+          {% if page.cv_url %}<a class="btn" href="{{ page.cv_url | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV</a>{% endif %}
+          {% if page.github_url %}<a class="btn btn-outline" href="{{ page.github_url }}" target="_blank" rel="noopener noreferrer">GitHub</a>{% endif %}
+        </div>
+      </div>
+    </aside>
+
+  </div>
+</section>
