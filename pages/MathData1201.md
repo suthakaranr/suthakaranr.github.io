@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Introduction to Statistical Thinking (MATH 1201)
-description: Introduction to Statistical Thinking
 ---
 
 
