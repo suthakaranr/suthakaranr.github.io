@@ -6,7 +6,7 @@ layout: default
 
     <div class="hero-main">
       <p class="eyebrow-plain">Welcome</p>
-      <h1>{{ page.name | default: site.title }}</h1>
+      <h1>{{ page.full_name | default: site.title }}</h1>
       <p class="tagline">{{ page.position }} &middot; {{ page.department }}, {{ page.institution }}</p>
 
       <div class="prose">
@@ -17,9 +17,9 @@ layout: default
     <aside class="hero-side">
       <div class="card">
         {% if page.photo %}
-        <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.name }}">
+        <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.full_name }}">
         {% endif %}
-        <p class="card-name">{{ page.name }}</p>
+        <p class="card-name">{{ page.full_name }}</p>
         <p class="card-role">{{ page.position }}<br>{{ page.department }}<br>{{ page.institution }}</p>
 
         <hr class="rule">

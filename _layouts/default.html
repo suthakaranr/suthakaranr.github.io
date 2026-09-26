@@ -11,7 +11,444 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+/* =========================================================================
+   Suthakaran Ratnasingam — academic site
+   Design system: ink navy + paper + a library-binding red accent.
+   Serif (Source Serif 4) for reading; IBM Plex Sans/Mono for structure & code.
+   ========================================================================= */
+
+:root {
+  --ink: #1A1D29;
+  --ink-soft: #2B2F42;
+  --paper: #FBFAF7;
+  --paper-alt: #F1EFE8;
+  --rule: #DCD7CB;
+  --rule-strong: #C7C1B2;
+  --text: #232320;
+  --muted: #625F56;
+  --accent: #8A2E36;
+  --accent-dark: #6E232A;
+  --accent-soft: #F2E4E2;
+  --focus: #2E5AAC;
+
+  --font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-sans: "IBM Plex Sans", -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", SFMono-Regular, Consolas, Menlo, monospace;
+
+  --measure: 42rem;
+  --wide: 62rem;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--text);
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--ink);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  z-index: 100;
+}
+.skip-link:focus { left: 0; }
+
+a { color: var(--accent); }
+a:hover { color: var(--accent-dark); }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+img { max-width: 100%; display: block; }
+
+hr.rule {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 1.75rem 0;
+}
+
+/* ---------------------------------------------------------------- nav -- */
+
+.site-nav {
+  background: var(--ink);
+  border-bottom: 3px solid var(--accent);
+}
+
+.nav-inner {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 0.95rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+}
+
+.site-name {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #F6F3EC;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+.site-name:hover { color: #fff; }
+.site-name .mark { color: var(--accent-soft); font-weight: 700; }
+
+.site-nav nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 1.35rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+}
+
+.site-nav nav a {
+  color: #D8D5CB;
+  text-decoration: none;
+  padding: 0.2rem 0.05rem;
+  border-bottom: 2px solid transparent;
+}
+.site-nav nav a:hover { color: #fff; }
+.site-nav nav a.active {
+  color: #fff;
+  border-bottom: 2px solid var(--accent-soft);
+}
+
+.nav-cv {
+  font-weight: 500;
+  color: var(--ink) !important;
+  background: var(--accent-soft);
+  padding: 0.35rem 0.8rem !important;
+  border-radius: 3px;
+  border-bottom: none !important;
+}
+.nav-cv:hover { background: #fff !important; }
+
+/* -------------------------------------------------------------- main --- */
+
+main { display: block; }
+
+/* --------------------------------------------------------------- hero -- */
+
+.hero {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 3.25rem 1.5rem 2.5rem;
+}
+
+.eyebrow-plain {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin: 0 0 0.4rem;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 19rem;
+  gap: 3rem;
+  align-items: start;
+}
+
+.hero-main h1 {
+  font-size: 2.5rem;
+  line-height: 1.15;
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.hero-main .tagline {
+  font-family: var(--font-sans);
+  color: var(--muted);
+  font-size: 1.05rem;
+  margin: 0 0 1.75rem;
+}
+
+.hero-main .prose p { max-width: var(--measure); }
+
+.card {
+  background: var(--paper-alt);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1.5rem;
+}
+
+.portrait {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 3px;
+  margin-bottom: 1.1rem;
+  border: 1px solid var(--rule-strong);
+}
+
+.card-name {
+  font-weight: 600;
+  margin: 0 0 0.2rem;
+}
+
+.card-role {
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.55;
+}
+
+.contact-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+}
+.contact-list li {
+  padding: 0.5rem 0;
+  border-top: 1px solid var(--rule);
+}
+.contact-list li:first-child { border-top: none; padding-top: 0; }
+.contact-list .label {
+  display: block;
+  color: var(--muted);
+  font-size: 0.78rem;
+  margin-bottom: 0.15rem;
+}
+.contact-list a { overflow-wrap: break-word; }
+
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.25rem;
+}
+
+.btn {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 0.5rem 0.9rem;
+  border-radius: 3px;
+  background: var(--accent);
+  color: #fff !important;
+  border: 1px solid var(--accent);
+}
+.btn:hover { background: var(--accent-dark); border-color: var(--accent-dark); }
+
+.btn-outline {
+  background: transparent;
+  color: var(--ink) !important;
+  border: 1px solid var(--rule-strong);
+}
+.btn-outline:hover { border-color: var(--ink); background: rgba(0,0,0,0.03); }
+
+/* ---------------------------------------------------------- page head -- */
+
+.page {
+  max-width: var(--wide);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.page-head h1 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+}
+
+.page-desc {
+  font-family: var(--font-sans);
+  color: var(--muted);
+  margin: 0;
+  font-size: 1.02rem;
+}
+
+/* ------------------------------------------------------------- prose --- */
+
+.content h2, .prose h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 2.2rem 0 0.9rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+.content h2:first-child, .prose h2:first-child { margin-top: 0; }
+
+.content h3, .prose h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 1.8rem 0 0.6rem;
+}
+
+.content h4, .prose h4 {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  color: var(--accent-dark);
+  margin: 2rem 0 0.8rem;
+  font-weight: 600;
+}
+
+.content p, .prose p { margin: 0 0 1.1rem; max-width: 42rem; }
+.content > ul, .content > ol,
+.prose > ul, .prose > ol { max-width: 42rem; padding-left: 1.35rem; }
+.content li, .prose li { margin-bottom: 0.45rem; }
+
+.content strong, .prose strong { font-weight: 600; }
+
+.content code, .prose code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: var(--paper-alt);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+}
+
+.content pre, .prose pre,
+.content .highlighter-rouge pre {
+  background: var(--ink);
+  color: #E8E6DF;
+  padding: 1.1rem 1.25rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  max-width: 100%;
+}
+.content pre code, .prose pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+.content blockquote, .prose blockquote {
+  margin: 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+  max-width: 42rem;
+}
+
+/* --------------------------------------------------------------- tables */
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 2rem;
+  font-size: 0.92rem;
+}
+.content caption { caption-side: top; text-align: left; }
+
+.content th {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.82rem;
+  text-align: left;
+  color: var(--ink);
+  border-bottom: 2px solid var(--ink);
+  padding: 0.55rem 0.9rem;
+  white-space: nowrap;
+}
+
+.content td {
+  padding: 0.55rem 0.9rem;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+
+.content tr:hover td { background: var(--paper-alt); }
+
+/* small pill badges for [pdf] / [CSV] / [html] style links in tables and
+   in the publication list, e.g. "...(2022FSEES.pdf) [pdf] [R Package]" */
+.content table a,
+.content hr ~ p a {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  text-decoration: none;
+  border: 1px solid var(--rule-strong);
+  border-radius: 3px;
+  padding: 0.05rem 0.45rem;
+}
+.content table a { white-space: nowrap; }
+.content table a:hover,
+.content hr ~ p a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff !important;
+}
+
+/* ------------------------------------------------------- publications -- */
+/* The publication list on the Research page is authored as plain numbered
+   paragraphs ("20) Author ... [pdf]"), separated by the section <hr>. Style
+   each as a bibliography-style entry with a rule between items. */
+
+.content hr ~ p {
+  font-size: 0.98rem;
+  line-height: 1.7;
+  max-width: var(--wide);
+  padding: 1.05rem 0;
+  margin: 0;
+  border-top: 1px solid var(--rule);
+}
+.content hr ~ p:last-child { border-bottom: 1px solid var(--rule); }
+.content hr ~ p a { margin-left: 0.15rem; }
+
+/* -------------------------------------------------------------- footer */
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  margin-top: 2rem;
+}
+.footer-inner {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.4rem 1.5rem;
+}
+.footer-inner p { margin: 0; }
+.footer-inner a { color: var(--muted); }
+.footer-inner a:hover { color: var(--accent); }
+
+/* ---------------------------------------------------------- responsive */
+
+@media (max-width: 760px) {
+  body { font-size: 16.5px; }
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-side { order: -1; max-width: 22rem; }
+  .hero-main h1 { font-size: 2rem; }
+  .nav-inner { padding: 0.85rem 1.1rem; }
+  .site-nav nav { font-size: 0.9rem; gap: 0.35rem 1rem; }
+  .page, .hero { padding-left: 1.1rem; padding-right: 1.1rem; }
+  .content table { font-size: 0.85rem; }
+  .content th, .content td { padding: 0.5rem 0.55rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}
+
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
