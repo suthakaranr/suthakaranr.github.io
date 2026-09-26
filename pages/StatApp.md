@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Statistics with Applications (MATH 2265)
-description: Statistics with Applications
 ---
 
 | ID | Title | Description  | Data |
