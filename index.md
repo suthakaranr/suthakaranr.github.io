@@ -11,7 +11,7 @@ institution: CSU San Bernardino
 email: suthakaran.ratnasingam@csusb.edu
 office: JB &ndash; 324
 phone: (909) 537-5366
-photo: /assets/headshot.png
+photo: /assets/headshot.jpg
 cv_url: /assets/SR.pdf
 github_url: https://github.com/suthakaranr
 ---
