@@ -178,7 +178,7 @@ main { display: block; }
   margin: 0 0 1.75rem;
 }
 
-.hero-main .prose p { max-width: var(--measure); }
+
 
 .card {
   background: var(--paper-alt);
@@ -303,9 +303,9 @@ main { display: block; }
   font-weight: 600;
 }
 
-.content p, .prose p { margin: 0 0 1.1rem; max-width: 42rem; }
+.content p, .prose p { margin: 0 0 1.1rem; }
 .content > ul, .content > ol,
-.prose > ul, .prose > ol { max-width: 42rem; padding-left: 1.35rem; }
+.prose > ul, .prose > ol { padding-left: 1.35rem; }
 .content li, .prose li { margin-bottom: 0.45rem; }
 
 .content strong, .prose strong { font-weight: 600; }
@@ -341,7 +341,6 @@ main { display: block; }
   padding: 0.2rem 0 0.2rem 1.1rem;
   border-left: 3px solid var(--accent);
   color: var(--muted);
-  max-width: 42rem;
 }
 
 /* --------------------------------------------------------------- tables */
@@ -477,7 +476,7 @@ main { display: block; }
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }} </p>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
     </div>
   </footer>
 </body>
