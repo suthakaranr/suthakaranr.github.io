@@ -4,7 +4,7 @@ title: Suthakaran Ratnasingam
 description: >-
   Homepage of Suthakaran Ratnasingam, Associate Professor of Statistics in the
   Department of Mathematics at California State University, San Bernardino.
-name: Suthakaran Ratnasingam, Ph.D.
+full_name: Suthakaran Ratnasingam, Ph.D.
 position: Associate Professor
 department: Department of Mathematics
 institution: CSU San Bernardino
