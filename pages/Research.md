@@ -13,7 +13,7 @@ description: Suthakaran's research portfolio
 .pub{padding:14px 0;border-bottom:1px solid #ddd6c7;text-align:justify;}
 .pub:last-child{border-bottom:none;}
 .pub i a{color:inherit;text-decoration:none;transition:color .15s ease;}
-.pub i a:hover, .pub i a:focus-visible{color:#7c2233;}
+.pub i a:hover, .pub i a:focus-visible{color:#7c2233 !important;}
 .pub-link{display:inline-block;font-size:0.85rem;color:#7c2233;border:1px solid #ddd6c7;border-radius:5px;padding:1px 8px;margin-left:4px;text-decoration:none;transition:background-color .15s ease, border-color .15s ease;}
 .pub-link:hover, .pub-link:focus-visible{background:#f2e9ea;border-color:#7c2233;}
 </style>
