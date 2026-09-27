@@ -17,6 +17,9 @@ title: Research
 .pub-link:hover, .pub-link:focus-visible{background:#7c2233;color:#fff;}
 </style>
 
+I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
+
+
 ## Areas of Interest
 
 <div class="interest-tags">
@@ -27,8 +30,6 @@ title: Research
   <button class="interest-tag" data-filter="hd">High-dimensional Data Analysis</button>
   <button class="interest-tag" data-filter="bd">Bounds and Inequalities</button>
 </div>
-
-I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
 
 
 <p id="pub-count" class="pub-count"></p>
