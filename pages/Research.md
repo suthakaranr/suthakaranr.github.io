@@ -1,106 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Research &amp; Publications</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+---
+title: "Research"
+layout: page
+permalink: /research/
+---
+
+<p class="subtitle">My work develops likelihood-based and distribution-free methods for detecting and dating structural change, with applications to high-dimensional, sequential, and biomedical data.</p>
+
 <style>
-  :root{
-    --cream:#f8f5ee; --cream-2:#f2efe6; --ink:#2b2a27; --ink-soft:#57534a;
-    --maroon:#7c2233; --maroon-2:#8f3247; --line:#ddd6c7; --box:#efece2;
-  }
-  :root:not([data-theme="light"]){ }
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      --cream:#221f1c; --cream-2:#2a2621; --ink:#eae6dd; --ink-soft:#c2bcad;
-      --maroon:#e08a9a; --maroon-2:#e7a3b0; --line:#4a453c; --box:#2e2a24;
-    }
-  }
-  :root[data-theme="dark"]{
-    --cream:#221f1c; --cream-2:#2a2621; --ink:#eae6dd; --ink-soft:#c2bcad;
-    --maroon:#e08a9a; --maroon-2:#e7a3b0; --line:#4a453c; --box:#2e2a24;
-  }
-  *{box-sizing:border-box;}
-  html{scroll-padding-top:env(safe-area-inset-top,0px);}
-  body{
-    margin:0; background:var(--cream); color:var(--ink);
-    font-family:'Lora',Georgia,'Times New Roman',serif;
-    padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
-    -webkit-text-size-adjust:100%;
-  }
-  .wrap{max-width:820px; margin:0 auto; padding:48px 24px 80px;}
-  h1{
-    font-family:'Lora',serif; font-weight:600; font-size:2rem; letter-spacing:.2px;
-    color:var(--maroon); margin:0 0 6px;
-  }
-  .subtitle{color:var(--ink-soft); font-size:1rem; margin:0 0 40px; max-width:62ch; line-height:1.6;}
-  h2{
-    font-family:'Lora',serif; font-weight:600; font-size:1.3rem; color:var(--maroon);
-    margin:0 0 14px; padding-bottom:10px; border-bottom:2px solid var(--line);
-  }
-  section{margin-bottom:44px;}
-  .interests{display:flex; flex-wrap:wrap; gap:10px; margin-top:4px;}
-  .tag-btn{
-    font-family:'Source Sans 3',sans-serif; font-size:.92rem; font-weight:600;
-    color:var(--maroon); background:var(--cream); border:1.5px solid var(--maroon);
-    border-radius:999px; padding:8px 18px; cursor:pointer; transition:background .15s,color .15s;
-    line-height:1.2;
-  }
-  .tag-btn:hover{background:var(--box);}
-  .tag-btn:focus-visible{outline:2px solid var(--maroon-2); outline-offset:2px;}
-  .tag-btn.active{background:var(--maroon); color:var(--cream); border-color:var(--maroon);}
-  .count{color:var(--ink-soft); font-size:.9rem; margin:14px 0 0; font-family:'Source Sans 3',sans-serif;}
-  .legend{color:var(--ink-soft); font-size:.85rem; margin:0 0 18px; font-family:'Source Sans 3',sans-serif;}
-  .pub-list{list-style:none; margin:0; padding:0;}
-  .pub{
-    display:flex; gap:14px; padding:22px 0; border-bottom:1px solid var(--line);
-  }
-  .pub:last-child{border-bottom:none;}
-  .pub.hidden{display:none;}
-  .pub-num{color:var(--ink-soft); font-variant-numeric:tabular-nums; min-width:2.2em; font-size:.95rem; padding-top:2px;}
-  .pub-body{font-size:1rem; line-height:1.65;}
-  .pub-body b{font-weight:600;}
-  .venue, .pdf{
-    display:inline-block; font-family:'Source Sans 3',sans-serif; font-size:.82rem;
-    border:1px solid var(--line); border-radius:5px; padding:1px 8px; margin:0 3px;
-    vertical-align:baseline;
-  }
-  .venue{font-style:italic; color:var(--maroon-2); background:var(--box);}
-  .pdf{color:var(--maroon); text-decoration:none; font-weight:600;}
-  .pdf:hover{background:var(--box);}
-  @media (max-width:520px){
-    .wrap{padding:32px 16px 60px;}
-    h1{font-size:1.6rem;}
-    .pub{gap:10px;}
-  }
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap');
+:root{
+  --cream:#f8f5ee; --cream-2:#f2efe6; --ink:#2b2a27; --ink-soft:#57534a;
+  --maroon:#7c2233; --maroon-2:#8f3247; --line:#ddd6c7; --box:#efece2;
+}
+.research-page{font-family:'Lora',Georgia,'Times New Roman',serif; color:var(--ink); background:var(--cream); padding:8px 4px;}
+.research-page .subtitle{color:var(--ink-soft); font-size:1rem; margin:0 0 32px; max-width:62ch; line-height:1.6;}
+.research-page h2{font-family:'Lora',serif; font-weight:600; font-size:1.3rem; color:var(--maroon); margin:36px 0 14px; padding-bottom:10px; border-bottom:2px solid var(--line);}
+.interests{display:flex; flex-wrap:wrap; gap:10px; margin-top:4px;}
+.tag-btn{font-family:'Source Sans 3',sans-serif; font-size:.92rem; font-weight:600; color:var(--maroon); background:var(--cream); border:1.5px solid var(--maroon); border-radius:999px; padding:8px 18px; cursor:pointer; transition:background .15s,color .15s; line-height:1.2;}
+.tag-btn:hover{background:var(--box);}
+.tag-btn.active{background:var(--maroon); color:var(--cream); border-color:var(--maroon);}
+.count{color:var(--ink-soft); font-size:.9rem; margin:14px 0 0; font-family:'Source Sans 3',sans-serif;}
+.legend{color:var(--ink-soft); font-size:.85rem; margin:0 0 18px; font-family:'Source Sans 3',sans-serif;}
+.pub-list{list-style:none; margin:0; padding:0;}
+.pub{display:flex; gap:14px; padding:22px 0; border-bottom:1px solid var(--line);}
+.pub:last-child{border-bottom:none;}
+.pub.hidden{display:none;}
+.pub-num{color:var(--ink-soft); font-variant-numeric:tabular-nums; min-width:2.2em; font-size:.95rem; padding-top:2px;}
+.pub-body{font-size:1rem; line-height:1.65;}
+.pub-body b{font-weight:600;}
+.venue,.pdf{display:inline-block; font-family:'Source Sans 3',sans-serif; font-size:.82rem; border:1px solid var(--line); border-radius:5px; padding:1px 8px; margin:0 3px; vertical-align:baseline;}
+.venue{font-style:italic; color:var(--maroon-2); background:var(--box);}
+.pdf{color:var(--maroon); text-decoration:none; font-weight:600;}
+.pdf:hover{background:var(--box);}
 </style>
-</head>
-<body>
-<div class="wrap">
-  <h1>Research</h1>
-  <p class="subtitle">My work develops likelihood-based and distribution-free methods for detecting and dating structural change, with applications to high-dimensional, sequential, and biomedical data.</p>
 
-  <section>
-    <h2>Research Interests</h2>
-    <div class="interests" id="filters">
-      <button class="tag-btn active" data-filter="all">All Publications</button>
-      <button class="tag-btn" data-filter="cp">Change Point Analysis</button>
-      <button class="tag-btn" data-filter="seq">Sequential Data Analysis</button>
-      <button class="tag-btn" data-filter="inf">Statistical Inferences</button>
-      <button class="tag-btn" data-filter="hd">High-Dimensional Data Analysis</button>
-      <button class="tag-btn" data-filter="bd">Bounds and Inequalities</button>
-    </div>
-  </section>
+<div class="research-page">
 
-  <section>
-    <h2>Publications</h2>
-    <p class="legend">* denotes co-first authors &nbsp;&middot;&nbsp; &dagger; denotes undergraduate/graduate student co-authors</p>
-    <p class="count" id="count"></p>
-    <ol class="pub-list" id="pubList" reversed></ol>
-  </section>
+## Research Interests
+
+<div class="interests" id="filters">
+  <button class="tag-btn active" data-filter="all">All Publications</button>
+  <button class="tag-btn" data-filter="cp">Change Point Analysis</button>
+  <button class="tag-btn" data-filter="seq">Sequential Data Analysis</button>
+  <button class="tag-btn" data-filter="inf">Statistical Inferences</button>
+  <button class="tag-btn" data-filter="hd">High-Dimensional Data Analysis</button>
+  <button class="tag-btn" data-filter="bd">Bounds and Inequalities</button>
+</div>
+
+## Publications
+
+<p class="legend">* denotes co-first authors &nbsp;&middot;&nbsp; &dagger; denotes undergraduate/graduate student co-authors</p>
+<p class="count" id="count"></p>
+<ol class="pub-list" id="pubList" reversed></ol>
+
 </div>
 
 <script>
@@ -162,5 +114,3 @@ document.getElementById('filters').addEventListener('click', (e) => {
   updateCount(visible);
 });
 </script>
-</body>
-</html>
