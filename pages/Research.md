@@ -31,7 +31,6 @@ I am happy to work with undergraduate and graduate students. If you are interest
 </div>
 
 
-
 <p id="pub-count" class="pub-count"></p>
 
 <div class="pub" data-tags="bd">
