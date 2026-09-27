@@ -30,6 +30,7 @@ title: Research
 
 I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
 
+--
 
 <p id="pub-count" class="pub-count"></p>
 
