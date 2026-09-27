@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+description: Suthakaran's research portfolio
 ---
 
 <style>
@@ -17,7 +18,7 @@ title: Research
 .pub-link:hover, .pub-link:focus-visible{background:#7c2233;color:#fff;}
 </style>
 
-## Areas of Interest
+#### Areas of Interest
 
 <div class="interest-tags">
   <button class="interest-tag active" data-filter="all">All Publications</button>
@@ -30,7 +31,9 @@ title: Research
 
 I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
 
---
+#### Publications
+
+---
 
 <p id="pub-count" class="pub-count"></p>
 
