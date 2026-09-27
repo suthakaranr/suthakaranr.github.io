@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-description: Suthakaran's research portfolio
 ---
 
 <style>
