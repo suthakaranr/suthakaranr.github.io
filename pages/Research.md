@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+description: Suthakaran's research portfolio
 ---
 
 <style>
@@ -11,13 +12,13 @@ title: Research
 .pub-count{color:#666;font-size:0.9rem;margin:10px 0;}
 .pub{padding:14px 0;border-bottom:1px solid #ddd6c7;}
 .pub:last-child{border-bottom:none;}
-.pub i a{color:#7c2233;text-decoration:none;border-bottom:1px solid transparent;transition:border-color .15s ease;}
-.pub i a:hover, .pub i a:focus-visible{border-bottom-color:#7c2233;}
-.pub-link{display:inline-block;font-size:0.85rem;color:#7c2233;border:1px solid #ddd6c7;border-radius:5px;padding:1px 8px;margin-left:4px;text-decoration:none;transition:background-color .15s ease, border-color .15s ease;}
-.pub-link:hover, .pub-link:focus-visible{background:#f2e9ea;border-color:#7c2233;}
+.pub i a{color:#7c2233;text-decoration:none;border-bottom:1px solid transparent;transition:border-color .15s ease, color .15s ease;}
+.pub i a:hover, .pub i a:focus-visible{border-bottom-color:#7c2233;color:#4a1a24;}
+.pub-link{display:inline-block;font-size:0.85rem;color:#7c2233;background:#fff;border:1px solid #7c2233;border-radius:5px;padding:1px 8px;margin-left:4px;text-decoration:none;transition:background-color .15s ease, color .15s ease;}
+.pub-link:hover, .pub-link:focus-visible{background:#7c2233;color:#fff;}
 </style>
 
-### Areas of Interest
+#### Areas of Interest
 
 <div class="interest-tags">
   <button class="interest-tag active" data-filter="all">All Publications</button>
@@ -30,6 +31,7 @@ title: Research
 
 I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
 
+#### Publications
 
 ---
 
