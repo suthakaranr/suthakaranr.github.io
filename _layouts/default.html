@@ -66,7 +66,7 @@ body {
 }
 .skip-link:focus { left: 0; }
 
-a { color: var(--accent); }
+a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-dark); }
 a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 
@@ -197,8 +197,11 @@ main { display: block; }
 
 .card-name {
   font-weight: 600;
+  font-size: 1rem;
+  white-space: nowrap;
   margin: 0 0 0.2rem;
 }
+@media (max-width: 360px) { .card-name { white-space: normal; } }
 
 .card-role {
   font-family: var(--font-sans);
@@ -475,7 +478,8 @@ main { display: block; }
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. Content licensed <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">CC BY 3.0</a>.</p>
+      <p><a href="https://github.com/{{ site.author.github }}/{{ site.author.github }}.github.io" target="_blank" rel="noopener noreferrer">Site source</a></p>
     </div>
   </footer>
 </body>
