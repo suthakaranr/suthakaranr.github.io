@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-#### CSU San Bernardino
+### CSU San Bernardino
 
 * Fall 2026
   * MATH 2265 - Statistics with Applications
@@ -11,7 +11,7 @@ title: Teaching
 
 ---
 
-#### Courses Taught
+### Courses Taught
 
 * [MATH 1201 - Introduction to Statistical Thinking](../pages/MathData1201.html)
 * [MATH 2265 - Statistics with Applications](../pages/StatApp.html)
@@ -29,7 +29,7 @@ title: Teaching
 
 ---
 
-#### Course Data Sets & Projects
+### Course Data Sets & Projects
 
 * [MATH 1201 &ndash; Data Sets](../pages/MathData1201.html)
 * [MATH 2265 &ndash; Data Sets](../pages/StatApp.html)
