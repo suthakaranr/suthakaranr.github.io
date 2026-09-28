@@ -4,7 +4,7 @@ title: Software
 ---
 
 
-#### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
+### <a style="text-decoration:none" href="https://github.com/suthakaranr/EfficientClosedGPD" target="_blank" rel="noopener noreferrer">EfficientClosedGPD</a> 
 The **R** package **EfficientClosedGPD** provides some efficient closed form estimators of the parameters of the
 Generalized Pareto Distribution proposed in <a style="text-decoration:none" href="../assets/2022FSEES.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
 
@@ -27,7 +27,7 @@ MethodLCVM(x) # Method LCVM
 <br/>
 
 
-#### <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">IneqBetaFun</a> 
+### <a style="text-decoration:none" href="https://github.com/suthakaranr/IneqBetaFun" target="_blank" rel="noopener noreferrer">IneqBetaFun</a> 
 The **R** package **IneqBetaFun** provides several new upper and lower bounds for the Beta function and the quotient of Beta functions proposed in <a style="text-decoration:none" href="../assets/2022FSRINAM.pdf" target="_blank" rel="noopener noreferrer">*From and Ratnasingam (2022)*</a>. Please see the examples below.
 
 
