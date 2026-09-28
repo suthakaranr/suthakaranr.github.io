@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-description: Suthakaran's research portfolio
 ---
 
 <style>
@@ -18,7 +17,10 @@ description: Suthakaran's research portfolio
 .pub-link:hover, .pub-link:focus-visible{background:#7c2233;color:#fff;}
 </style>
 
-#### Areas of Interest
+I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
+
+
+## Areas of Interest
 
 <div class="interest-tags">
   <button class="interest-tag active" data-filter="all">All Publications</button>
@@ -29,9 +31,6 @@ description: Suthakaran's research portfolio
   <button class="interest-tag" data-filter="bd">Bounds and Inequalities</button>
 </div>
 
-I am happy to work with undergraduate and graduate students. If you are interested in a research project or thesis, please contact me.
-
-#### Publications
 
 <p id="pub-count" class="pub-count"></p>
 
