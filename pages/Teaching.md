@@ -14,6 +14,7 @@ title: Teaching
 ### Courses Taught
 
 * [MATH 1201 - Introduction to Statistical Thinking](../pages/MathData1201.html)
+* MATH 1601 - Modeling with Calculus
 * [MATH 2265 - Statistics with Applications](../pages/StatApp.html)
 * MATH 2310 - Applied Linear Algebra
 * MATH 3320 - Mathematical Interest Theory
